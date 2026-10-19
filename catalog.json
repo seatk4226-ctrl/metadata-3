@@ -425,5 +425,73 @@
     ],
     "json_rev": 1,
     "added_ts": 1792376004
+  },
+  {
+    "id": "game-945360",
+    "appid": 945360,
+    "name": "Among Us",
+    "developer": "Innersloth",
+    "publisher": "Innersloth",
+    "installdir": "Among Us",
+    "launch_exes": [
+      "Among Us.exe",
+      "AmongUs.app"
+    ],
+    "launch_exe": "Among Us.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25134893",
+    "has_metadata": true,
+    "depot_base": 945361,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/945360/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/945360/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25134893",
+        "branch": "public",
+        "label": "Public - Build 25134893 (09/05/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "945361"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792382717
   }
 ]
