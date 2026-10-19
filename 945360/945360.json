@@ -400,18 +400,5 @@
     "homepage": "http://innersloth.com/gameAmongUs.php",
     "listofdlc": "946430,971924,971925,971995,971996,971998,971999,1579150",
     "publisher": "Innersloth"
-  },
-  "launch": {
-    "exe": "Among Us.exe",
-    "exe_after_fix": [
-      {
-        "name": "Play Online",
-        "executable": "_play_online.bat"
-      },
-      {
-        "name": "Play Offline",
-        "executable": "_play_offline.bat"
-      }
-    ]
   }
 }
