@@ -10,7 +10,16 @@
       "bootstrapper.exe"
     ],
     "launch_exe": "bootstrapper.exe",
-    "launch_exe_after_fix": "",
+    "launch_exe_after_fix": [
+      {
+        "name": "Play Multiplayer",
+        "executable": "_start_multiplayer.bat"
+      },
+      {
+        "name": "Play Singleplayer",
+        "executable": "_start_singleplayer.bat"
+      }
+    ],
     "build_id": "3595272",
     "has_metadata": true,
     "depot_base": 3595271,
