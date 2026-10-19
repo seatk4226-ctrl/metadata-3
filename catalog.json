@@ -213,6 +213,320 @@
     "added_ts": 1792393314
   },
   {
+    "id": "game-3280350",
+    "appid": 3280350,
+    "name": "DEATH STRANDING 2: ON THE BEACH",
+    "developer": "KOJIMA PRODUCTIONS",
+    "publisher": "PlayStation Publishing LLC",
+    "installdir": "DEATH STRANDING 2 - ON THE BEACH",
+    "launch_exes": [
+      "DS2.exe",
+      "NIP.WinGameSteam.ReleaseSym.DX12.exe",
+      "NIP.WinGameSteam.ReleaseSymRtDbg.DX12.exe",
+      "BootLoader.Win64.ReleaseSymRtDbg.DX12.exe"
+    ],
+    "launch_exe": "DS2.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "23923251",
+    "has_metadata": true,
+    "depot_base": 3280351,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3280350/9b523fd411eeaefe80f238489745325a1cd2317f/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3280350/6270c77b0729e2df0a17d660286eeddfd9169386/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "23923251",
+        "branch": "public",
+        "label": "Public - Build 23923251 (06/26/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3280351",
+          "3280352",
+          "3280354",
+          "3280355",
+          "3280356",
+          "3280357",
+          "3280358",
+          "3280359",
+          "3669121",
+          "3669122",
+          "3669123",
+          "3669124",
+          "3669125",
+          "3669126"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 3280355,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          },
+          {
+            "id": 3280356,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 3280357,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 3280358,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 3280359,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 3669121,
+            "key": "lang:portuguese",
+            "lang": "portuguese",
+            "label": "Português (Portuguese)",
+            "source": "depot"
+          },
+          {
+            "id": 3669122,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 3669123,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 3669124,
+            "key": "lang:latam",
+            "lang": "latam",
+            "label": "Español Latinoamérica (LATAM)",
+            "source": "depot"
+          },
+          {
+            "id": 3669125,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 3669126,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 3280355,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3280356,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3280357,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3280358,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3280359,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 3669121,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 3669122,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 3669123,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 3669124,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      },
+      {
+        "id": 3669125,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 3669126,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 3280355,
+        "key": "lang:japanese",
+        "lang": "japanese",
+        "label": "日本語 (Japanese)",
+        "source": "depot"
+      },
+      {
+        "id": 3280356,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 3280357,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 3280358,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 3280359,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 3669121,
+        "key": "lang:portuguese",
+        "lang": "portuguese",
+        "label": "Português (Portuguese)",
+        "source": "depot"
+      },
+      {
+        "id": 3669122,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      },
+      {
+        "id": 3669123,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 3669124,
+        "key": "lang:latam",
+        "lang": "latam",
+        "label": "Español Latinoamérica (LATAM)",
+        "source": "depot"
+      },
+      {
+        "id": 3669125,
+        "key": "lang:brazilian",
+        "lang": "brazilian",
+        "label": "Português (Brazilian)",
+        "source": "depot"
+      },
+      {
+        "id": 3669126,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792426983
+  },
+  {
     "id": "game-3595270",
     "appid": 3595270,
     "name": "Call of Duty®: Modern Warfare® III",
