@@ -1512,5 +1512,18 @@
     "homepage": "https://www.callofduty.com/store/games/modernwarfare3",
     "listofdlc": "3603450,3603460,3603470",
     "publisher": "Activision"
+  },
+  "launch": {
+    "exe": "bootstrapper.exe",
+    "exe_after_fix": [
+      {
+        "name": "Play Multiplayer",
+        "executable": "_start_multiplayer.bat"
+      },
+      {
+        "name": "Play Singleplayer",
+        "executable": "_start_singleplayer.bat"
+      }
+    ]
   }
 }
