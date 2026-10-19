@@ -75,6 +75,76 @@
     "added_ts": 1792390174
   },
   {
+    "id": "game-2369390",
+    "appid": 2369390,
+    "name": "Far Cry 6",
+    "developer": "Ubisoft Toronto",
+    "publisher": "Ubisoft",
+    "installdir": "Far Cry 6",
+    "launch_exes": [
+      "bin\\FarCry6.exe",
+      "FarCry6.exe"
+    ],
+    "launch_exe": "bin\\FarCry6.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "11359732",
+    "has_metadata": true,
+    "depot_base": 2369391,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2369390/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2369390/64af0c6b70ef233bbdff1e5ffe0e397481efb3c9/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "11359732",
+        "branch": "public",
+        "label": "Public - Build 11359732 (05/31/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "1716751",
+          "2369391",
+          "2369392",
+          "2432590"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792393314
+  },
+  {
     "id": "game-3595270",
     "appid": 3595270,
     "name": "Call of Duty®: Modern Warfare® III",
