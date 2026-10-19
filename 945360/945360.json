@@ -402,3 +402,16 @@
     "publisher": "Innersloth"
   }
 }
+"launch": {
+  "exe": "Among Us.exe",
+  "exe_after_fix": [
+    {
+      "name": "Play Online",
+      "executable": "_play_online.bat"
+    },
+    {
+      "name": "Play Offline",
+      "executable": "_play_offline.bat"
+    }
+  ]
+}
