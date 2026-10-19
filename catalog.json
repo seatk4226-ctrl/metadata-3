@@ -20,7 +20,7 @@
         "executable": "_start_singleplayer.bat"
       }
     ],
-    "build_id": "3595272",
+    "build_id": "23744832",
     "has_metadata": true,
     "depot_base": 3595271,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3595270/a3070fe258d1e2a0232aad783d34f927629dbd21/library_capsule.jpg",
@@ -30,9 +30,9 @@
     ],
     "versions": [
       {
-        "id": "3595272",
+        "id": "23744832",
         "branch": "public",
-        "label": "Public - Build 3595272 (06/15/2026)",
+        "label": "Public - Build 23744832 (06/15/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
