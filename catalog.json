@@ -438,7 +438,16 @@
       "AmongUs.app"
     ],
     "launch_exe": "Among Us.exe",
-    "launch_exe_after_fix": "",
+    "launch_exe_after_fix": [
+      {
+        "name": "Play Online",
+        "executable": "_play_online.bat"
+      },
+      {
+        "name": "Play Offline",
+        "executable": "_play_offline.bat"
+      }
+    ],
     "build_id": "25134893",
     "has_metadata": true,
     "depot_base": 945361,
