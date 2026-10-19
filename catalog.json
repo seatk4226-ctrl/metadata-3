@@ -1,5 +1,71 @@
 [
   {
+    "id": "game-1260320",
+    "appid": 1260320,
+    "name": "Party Animals",
+    "developer": "Recreate Games",
+    "publisher": "Source Technology",
+    "installdir": "Party Animals",
+    "launch_exes": [
+      "PartyAnimals.exe"
+    ],
+    "launch_exe": "PartyAnimals.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25931654",
+    "has_metadata": true,
+    "depot_base": 1260321,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1260320/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1260320/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25931654",
+        "branch": "public",
+        "label": "Public - Build 25931654 (10/14/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "1260321"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792437673
+  },
+  {
     "id": "game-1721470",
     "appid": 1721470,
     "name": "Poppy Playtime",
