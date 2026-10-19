@@ -256,8 +256,12 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
                 if has_key_pre and has_manifest_pre:
                     ready_build_ids.append(bid_pre)
         # Write plaintext index so CI can use it without vault.py
+        # Chỉ ghi nếu nội dung thực sự thay đổi (tránh commit "chạm" vào folder game khác)
         try:
-            ready_builds_file.write_text(json.dumps(ready_build_ids, ensure_ascii=False), encoding="utf-8")
+            new_content = json.dumps(ready_build_ids, ensure_ascii=False)
+            old_content = ready_builds_file.read_text(encoding="utf-8") if ready_builds_file.is_file() else None
+            if old_content != new_content:
+                ready_builds_file.write_text(new_content, encoding="utf-8")
         except Exception:
             pass
     else:
