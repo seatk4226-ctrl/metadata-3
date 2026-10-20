@@ -141,6 +141,103 @@
     "added_ts": 1792390174
   },
   {
+    "id": "game-1778820",
+    "appid": 1778820,
+    "name": "TEKKEN 8",
+    "developer": "Bandai Namco Studios Inc.",
+    "publisher": "Bandai Namco Entertainment",
+    "installdir": "TEKKEN 8",
+    "launch_exes": [
+      "TEKKEN 8.exe"
+    ],
+    "launch_exe": "TEKKEN 8.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25221600",
+    "has_metadata": true,
+    "depot_base": 1778821,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1778820/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1778820/c7b0b80639fc8c7d386922f414f293ca849e8e81/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25221600",
+        "branch": "public",
+        "label": "Public - Build 25221600 (08/26/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "1778821",
+          "3025000",
+          "3145890",
+          "3564550",
+          "4001570"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "24827309",
+        "branch": "public",
+        "label": "Public - Build 24827309 (08/20/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
+        "is_recommended": false,
+        "manifest_depots": [
+          "1778821",
+          "1778822",
+          "2497260",
+          "3025000",
+          "3145890",
+          "3564550",
+          "4001570"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792466898
+  },
+  {
     "id": "game-1943950",
     "appid": 1943950,
     "name": "Escape the Backrooms",
