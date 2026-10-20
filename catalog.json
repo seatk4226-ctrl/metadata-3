@@ -1774,5 +1774,73 @@
     ],
     "json_rev": 1,
     "added_ts": 1792382717
+  },
+  {
+    "id": "game-960910",
+    "appid": 960910,
+    "name": "Heavy Rain",
+    "developer": "Quantic Dream",
+    "publisher": "Quantic Dream",
+    "installdir": "HEAVY RAIN",
+    "launch_exes": [
+      "HeavyRain.exe"
+    ],
+    "launch_exe": "HeavyRain.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "5236766",
+    "has_metadata": true,
+    "depot_base": 960911,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/960910/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/960910/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "5236766",
+        "branch": "public",
+        "label": "Public - Build 5236766 (07/01/2020)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228990",
+          "960911",
+          "960912"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792523804
   }
 ]
