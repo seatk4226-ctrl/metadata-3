@@ -897,6 +897,83 @@
     "added_ts": 1792429579
   },
   {
+    "id": "game-221040",
+    "appid": 221040,
+    "name": "Resident Evil 6",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "installdir": "Resident Evil 6",
+    "launch_exes": [
+      "BH6.exe"
+    ],
+    "launch_exe": "BH6.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "10112070",
+    "has_metadata": true,
+    "depot_base": 221041,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/221040/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/221040/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "10112070",
+        "branch": "public",
+        "label": "Public - Build 10112070 (12/09/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "221041",
+          "221042",
+          "221043",
+          "221044",
+          "228580",
+          "232490",
+          "232491",
+          "232510",
+          "232530",
+          "232550",
+          "232570",
+          "232590",
+          "236080"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792577834
+  },
+  {
     "id": "game-2369390",
     "appid": 2369390,
     "name": "Far Cry 6",
