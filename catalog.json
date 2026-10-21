@@ -967,6 +967,75 @@
     "added_ts": 1792393314
   },
   {
+    "id": "game-304240",
+    "appid": 304240,
+    "name": "Resident Evil",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "Resident Evil Biohazard HD REMASTER",
+    "launch_exes": [
+      "bhd.exe"
+    ],
+    "launch_exe": "bhd.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24426527",
+    "has_metadata": true,
+    "depot_base": 304241,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/304240/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/304240/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24426527",
+        "branch": "public",
+        "label": "Public - Build 24426527 (07/28/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228990",
+          "304241",
+          "304242",
+          "345190",
+          "345191"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792569545
+  },
+  {
     "id": "game-3280350",
     "appid": 3280350,
     "name": "DEATH STRANDING 2: ON THE BEACH",
