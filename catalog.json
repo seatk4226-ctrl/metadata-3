@@ -1708,6 +1708,76 @@
     "added_ts": 1792376004
   },
   {
+    "id": "game-678960",
+    "appid": 678960,
+    "name": "CODE VEIN",
+    "developer": "Bandai Namco Studios",
+    "publisher": "Bandai Namco Entertainment",
+    "installdir": "CODE VEIN",
+    "launch_exes": [
+      "CodeVein.exe"
+    ],
+    "launch_exe": "CodeVein.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "5008417",
+    "has_metadata": true,
+    "depot_base": 678961,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/678960/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/678960/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "5008417",
+        "branch": "public",
+        "label": "Public - Build 5008417 (05/11/2020)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228986",
+          "228990",
+          "678961",
+          "678962",
+          "678963",
+          "678964"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792565804
+  },
+  {
     "id": "game-945360",
     "appid": 945360,
     "name": "Among Us",
