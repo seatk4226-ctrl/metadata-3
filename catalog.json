@@ -967,6 +967,79 @@
     "added_ts": 1792393314
   },
   {
+    "id": "game-254700",
+    "appid": 254700,
+    "name": "Resident Evil 4 (2005)",
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "installdir": "Resident Evil 4",
+    "launch_exes": [
+      "Bin32/bio4.exe",
+      "bio4.exe"
+    ],
+    "launch_exe": "Bin32/bio4.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "10112090",
+    "has_metadata": true,
+    "depot_base": 254701,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/254700/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/254700/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "10112090",
+        "branch": "public",
+        "label": "Public - Build 10112090 (12/09/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228990",
+          "254701",
+          "254702",
+          "254703",
+          "254704",
+          "272260",
+          "272261"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792573269
+  },
+  {
     "id": "game-304240",
     "appid": 304240,
     "name": "Resident Evil",
