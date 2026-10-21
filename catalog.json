@@ -1350,6 +1350,85 @@
     "added_ts": 1792426983
   },
   {
+    "id": "game-339340",
+    "appid": 339340,
+    "name": "Resident Evil 0",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "Resident Evil 0",
+    "launch_exes": [
+      "re0hd.exe"
+    ],
+    "launch_exe": "re0hd.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "17178773",
+    "has_metadata": true,
+    "depot_base": 339341,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/339340/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/339340/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "17178773",
+        "branch": "public",
+        "label": "Public - Build 17178773 (01/29/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228990",
+          "339341",
+          "339342",
+          "339343",
+          "381710",
+          "381711",
+          "381712",
+          "381713",
+          "381715",
+          "381716",
+          "381717",
+          "401340",
+          "401341",
+          "406140",
+          "430390"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792572877
+  },
+  {
     "id": "game-3595270",
     "appid": 3595270,
     "name": "Call of Duty®: Modern Warfare® III",
