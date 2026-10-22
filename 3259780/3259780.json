@@ -1,11 +1,11 @@
 {
-  "_lastChecked": 1789818959,
+  "_lastChecked": 1792689550,
   "_history": [
     {
       "buildId": "24250053",
       "branch": "public",
       "timeUpdated": 1784247974,
-      "firstSeen": 1792688227,
+      "firstSeen": 1792689654,
       "manifests": {
         "228989": {
           "gid": "5753583882400741046",
@@ -25,10 +25,10 @@
       }
     }
   ],
-  "_change_number": 38999346,
-  "_missing_token": true,
-  "_sha": "30b0f4b41441034b597ee003f7658055d0219ec8",
-  "_size": 7411,
+  "_change_number": 40135534,
+  "_missing_token": false,
+  "_sha": "f7caf92927b25118aa2911cd10b7f4d1d18ea189",
+  "_size": 9414,
   "appid": "3259780",
   "common": {
     "associations": {
@@ -55,6 +55,8 @@
       "category_23": "1",
       "category_28": "1",
       "category_29": "1",
+      "category_45": "1",
+      "category_46": "1",
       "category_57": "1",
       "category_59": "1",
       "category_62": "1",
@@ -66,6 +68,7 @@
     },
     "clienticon": "eae0626d824ad8f359348f4c0fcf4be43c391182",
     "community_hub_visible": "1",
+    "community_visible_stats": "1",
     "controller_support": "full",
     "controllertagwizard": "1",
     "eulas": {
@@ -73,10 +76,9 @@
         "id": "3259780_eula_0",
         "name": "FINAL FANTASY RESONANCE EULA",
         "url": "https://store.steampowered.com//eula/3259780_eula_0",
-        "version": "4"
+        "version": "6"
       }
     },
-    "exfgls": "8",
     "gameid": "3259780",
     "genres": {
       "0": "3"
@@ -167,7 +169,7 @@
     "osextended": "",
     "oslist": "windows",
     "primary_genre": "3",
-    "releasestate": "prerelease",
+    "releasestate": "released",
     "small_capsule": {
       "english": "6861c59eb09396b7370536d494c1c1f33f684f14/capsule_231x87.jpg",
       "japanese": "bd66d608dc41a24e3dcfa8a68fc7872cd0fed964/capsule_231x87_japanese.jpg"
@@ -253,27 +255,28 @@
         }
       }
     },
-    "store_asset_mtime": "1788530847",
+    "steam_release_date": "1792684790",
+    "store_asset_mtime": "1792685433",
     "store_tags": {
       "0": "122",
       "1": "3964",
-      "10": "4057",
-      "11": "21",
-      "12": "3993",
-      "13": "4791",
-      "14": "7481",
-      "15": "1677",
-      "16": "4172",
+      "10": "3834",
+      "11": "4057",
+      "12": "7481",
+      "13": "1677",
+      "14": "3993",
+      "15": "4172",
+      "16": "4791",
       "17": "5608",
       "18": "21725",
       "2": "4325",
       "3": "4434",
-      "4": "1742",
-      "5": "4975",
-      "6": "4182",
-      "7": "3834",
+      "4": "4975",
+      "5": "1742",
+      "6": "1684",
+      "7": "4182",
       "8": "10695",
-      "9": "1684"
+      "9": "21"
     },
     "supported_languages": {
       "english": {
@@ -313,9 +316,36 @@
     },
     "type": "Game"
   },
-  "public_only": "1",
+  "config": {
+    "installdir": "FINAL FANTASY RESONANCE",
+    "launch": {
+      "1": {
+        "executable": "FFRS.exe"
+      }
+    },
+    "steamconfigurator3rdpartynative": "65527",
+    "steamcontrollerconfigdetails": {
+      "3682779959": {
+        "controller_type": "controller_neptune",
+        "enabled_branches": "default,branch_dev,branch_test,branch_shipping",
+        "use_action_block": "false"
+      },
+      "3705899355": {
+        "controller_type": "controller_ps5",
+        "enabled_branches": "default,branch_dev,branch_test,branch_shipping",
+        "use_action_block": "false"
+      }
+    },
+    "steamcontrollertemplateindex": "1",
+    "steamdecktouchscreen": "1"
+  },
   "depots": {
     "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
       "manifests": {
         "public": {
           "download": "25108528",
@@ -325,6 +355,11 @@
       }
     },
     "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
       "manifests": {
         "public": {
           "download": "100658080",
@@ -340,6 +375,44 @@
           "gid": "4382455441785374673",
           "size": "14570040181"
         }
+      }
+    },
+    "baselanguages": "english,german,french,koreana,spanish,schinese,tchinese,japanese",
+    "branches": {
+      "public": {
+        "buildid": "24250053",
+        "timebuildupdated": "1784247986",
+        "timeupdated": "1784905304"
+      }
+    },
+    "privatebranches": "1"
+  },
+  "extended": {
+    "developer": "Square Enix",
+    "dlcavailableonstore": "1",
+    "homepage": "https://www.square-enix.com/finalfantasyresonance/en_US/",
+    "listofdlc": "4347890,4347900,4347910",
+    "publisher": "Square Enix"
+  },
+  "ufs": {
+    "maxnumfiles": "15",
+    "quota": "10000000",
+    "savefiles": {
+      "0": {
+        "path": "FFRS/Steam/{64BitSteamID}",
+        "pattern": "GameSaveData*.sav",
+        "platforms": {
+          "1": "Windows"
+        },
+        "root": "WinAppDataLocal"
+      },
+      "1": {
+        "path": "FFRS_DEMO/Steam/{64BitSteamID}",
+        "pattern": "GameSaveData*.sav",
+        "platforms": {
+          "1": "Windows"
+        },
+        "root": "WinAppDataLocal"
       }
     }
   }

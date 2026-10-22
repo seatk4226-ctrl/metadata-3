@@ -1694,10 +1694,12 @@
     "appid": 3259780,
     "name": "FINAL FANTASY RESONANCE",
     "developer": "Square Enix",
-    "publisher": "",
+    "publisher": "Square Enix",
     "installdir": "FINAL FANTASY RESONANCE",
-    "launch_exes": [],
-    "launch_exe": "",
+    "launch_exes": [
+      "FFRS.exe"
+    ],
+    "launch_exe": "FFRS.exe",
     "launch_exe_after_fix": "",
     "build_id": "24250053",
     "has_metadata": true,
