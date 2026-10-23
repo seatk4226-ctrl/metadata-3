@@ -2974,6 +2974,89 @@
             "source": "depot"
           }
         ]
+      },
+      {
+        "id": "4726395",
+        "branch": "public",
+        "label": "Public - Build 4726395 (02/28/2020)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "812141",
+          "812142",
+          "812143",
+          "812144",
+          "812145",
+          "812146",
+          "812147",
+          "812148",
+          "857154",
+          "857155",
+          "857156",
+          "857157",
+          "857158",
+          "857159",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 812142,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 812143,
+            "key": "lang:brazilian",
+            "lang": "brazilian",
+            "label": "Português (Brazilian)",
+            "source": "depot"
+          },
+          {
+            "id": 812144,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 812145,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 812146,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          },
+          {
+            "id": 812147,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 812148,
+            "key": "lang:japanese",
+            "lang": "japanese",
+            "label": "日本語 (Japanese)",
+            "source": "depot"
+          }
+        ]
       }
     ],
     "languages": [
