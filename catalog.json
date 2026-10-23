@@ -2577,6 +2577,236 @@
     "added_ts": 1792376004
   },
   {
+    "id": "game-40990",
+    "appid": 40990,
+    "name": "Mafia",
+    "developer": "Illusion Softworks",
+    "publisher": "2K",
+    "installdir": "Mafia",
+    "launch_exes": [
+      "Mafia/game.exe",
+      "game.exe",
+      "Mafia/setup.exe",
+      "setup.exe"
+    ],
+    "launch_exe": "Mafia/game.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "2300614",
+    "has_metadata": true,
+    "depot_base": 746465,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/40990/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/40990/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "2300614",
+        "branch": "public",
+        "label": "Public - Build 2300614 (11/17/2017)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "40991",
+          "40992",
+          "40993",
+          "40994",
+          "40995",
+          "40996",
+          "40997",
+          "40998",
+          "40999",
+          "228982",
+          "228990",
+          "746461",
+          "746462",
+          "746463",
+          "746464",
+          "746465"
+        ],
+        "languages": [
+          {
+            "id": 40996,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          },
+          {
+            "id": 746461,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 40998,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 40997,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 40999,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 746462,
+            "key": "lang:polish",
+            "lang": "polish",
+            "label": "Polski (Polish)",
+            "source": "depot"
+          },
+          {
+            "id": 746463,
+            "key": "lang:czech",
+            "lang": "czech",
+            "label": "Čeština (Czech)",
+            "source": "depot"
+          },
+          {
+            "id": 746464,
+            "key": "lang:russian",
+            "lang": "russian",
+            "label": "Русский (Russian)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 40996,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 746461,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 40998,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 40997,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 40999,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 746462,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 746463,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 746464,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 40996,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      },
+      {
+        "id": 746461,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 40998,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 40997,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 40999,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 746462,
+        "key": "lang:polish",
+        "lang": "polish",
+        "label": "Polski (Polish)",
+        "source": "depot"
+      },
+      {
+        "id": 746463,
+        "key": "lang:czech",
+        "lang": "czech",
+        "label": "Čeština (Czech)",
+        "source": "depot"
+      },
+      {
+        "id": 746464,
+        "key": "lang:russian",
+        "lang": "russian",
+        "label": "Русский (Russian)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792735030
+  },
+  {
     "id": "game-582160",
     "appid": 582160,
     "name": "Assassin's Creed Origins",
