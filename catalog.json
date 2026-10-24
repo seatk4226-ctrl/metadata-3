@@ -1737,6 +1737,76 @@
     "added_ts": 1792573269
   },
   {
+    "id": "game-2567870",
+    "appid": 2567870,
+    "name": "Chained Together",
+    "developer": "Anegar Games",
+    "publisher": "Secret Mode",
+    "installdir": "ChainedTogether",
+    "launch_exes": [
+      "ChainedTogether.exe"
+    ],
+    "launch_exe": "ChainedTogether.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "25325926",
+    "has_metadata": true,
+    "depot_base": 2567871,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2567870/e11d085911d98518e797f480407006be8d890f33/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2567870/9989d3793429ffa481cc3228bb66d65565b9ce2b/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "25325926",
+        "branch": "public",
+        "label": "Public - Build 25325926 (09/15/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "229002",
+          "229003",
+          "229007",
+          "2567871"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792840412
+  },
+  {
     "id": "game-304240",
     "appid": 304240,
     "name": "Resident Evil",
