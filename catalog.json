@@ -1992,6 +1992,73 @@
     "added_ts": 1792840412
   },
   {
+    "id": "game-2988580",
+    "appid": 2988580,
+    "name": "Yakuza 0 Director's Cut",
+    "developer": "RGG Studio",
+    "publisher": "SEGA",
+    "installdir": "Yakuza 0 Directors Cut",
+    "launch_exes": [
+      "runtime\\media\\startup.exe",
+      "startup.exe"
+    ],
+    "launch_exe": "runtime\\media\\startup.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "21476300",
+    "has_metadata": true,
+    "depot_base": 2988581,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2988580/34469d4bd9c39b13c3005948ea422163908e296f/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2988580/fd233f6c9bb883688cde4c3fb421fd30d00c0e9c/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21476300",
+        "branch": "public",
+        "label": "Public - Build 21476300 (01/13/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "2988581"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792957012
+  },
+  {
     "id": "game-304240",
     "appid": 304240,
     "name": "Resident Evil",
