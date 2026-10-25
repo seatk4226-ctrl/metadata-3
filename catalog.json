@@ -1,5 +1,81 @@
 [
   {
+    "id": "game-1235140",
+    "appid": 1235140,
+    "name": "Yakuza: Like a Dragon",
+    "developer": "RGG Studio",
+    "publisher": "SEGA",
+    "installdir": "Yakuza Like a Dragon",
+    "launch_exes": [
+      "runtime/media/startup.exe",
+      "startup.exe",
+      "runtime\\media\\Yakuza7.exe",
+      "Yakuza7.exe",
+      "runtime/media/YakuzaLikeADragon.exe",
+      "YakuzaLikeADragon.exe"
+    ],
+    "launch_exe": "runtime/media/startup.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "7362542",
+    "has_metadata": true,
+    "depot_base": 1235141,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1235140/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1235140/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "7362542",
+        "branch": "public",
+        "label": "Public - Build 7362542 (09/15/2021)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228987",
+          "228990",
+          "1235141",
+          "1235142",
+          "1235143",
+          "1235144",
+          "1261270"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792908400
+  },
+  {
     "id": "game-1260320",
     "appid": 1260320,
     "name": "Party Animals",
