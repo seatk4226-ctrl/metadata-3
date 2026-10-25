@@ -1198,6 +1198,75 @@
     "added_ts": 1792429579
   },
   {
+    "id": "game-2072450",
+    "appid": 2072450,
+    "name": "Like a Dragon: Infinite Wealth",
+    "developer": "RGG Studio",
+    "publisher": "SEGA",
+    "installdir": "LikeADragon8",
+    "launch_exes": [
+      "runtime/media/LikeADragon8.exe",
+      "LikeADragon8.exe",
+      "runtime/media/startup.exe",
+      "startup.exe"
+    ],
+    "launch_exe": "runtime/media/LikeADragon8.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "17233673",
+    "has_metadata": true,
+    "depot_base": 2072451,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2072450/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2072450/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "17233673",
+        "branch": "public",
+        "label": "Public - Build 17233673 (02/04/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "2072451"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1792958011
+  },
+  {
     "id": "game-221040",
     "appid": 221040,
     "name": "Resident Evil 6",
