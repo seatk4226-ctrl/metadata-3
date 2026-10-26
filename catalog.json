@@ -2267,6 +2267,76 @@
     "added_ts": 1792569545
   },
   {
+    "id": "game-3227760",
+    "appid": 3227760,
+    "name": "Paper Bride 6 Nightmare",
+    "developer": "HeartBeat Plus",
+    "publisher": "HeartBeat Plus",
+    "installdir": "paperbride6",
+    "launch_exes": [
+      "qqy.exe"
+    ],
+    "launch_exe": "qqy.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24484374",
+    "has_metadata": true,
+    "depot_base": 3227761,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3227760/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3227760/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24484374",
+        "branch": "public",
+        "label": "Public - Build 24484374 (07/31/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "3227761",
+          "3227762",
+          "3227763",
+          "3283000",
+          "3284820"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793031620
+  },
+  {
     "id": "game-3259780",
     "appid": 3259780,
     "name": "FINAL FANTASY RESONANCE",
