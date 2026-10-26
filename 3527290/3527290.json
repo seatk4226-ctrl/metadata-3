@@ -13,6 +13,19 @@
           "download": 11732967824
         }
       }
+    },
+    {
+      "buildId": "25739797",
+      "branch": "public",
+      "timeUpdated": 1791243948,
+      "firstSeen": 1793020307,
+      "manifests": {
+        "3527291": {
+          "gid": "7760699995234210393",
+          "size": 1930335969,
+          "download": 1565047488
+        }
+      }
     }
   ],
   "_change_number": 40132791,

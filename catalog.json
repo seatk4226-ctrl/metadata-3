@@ -2836,6 +2836,26 @@
             "is_default": true
           }
         ]
+      },
+      {
+        "id": "25739797",
+        "branch": "public",
+        "label": "Public - Build 25739797 (10/06/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3527291"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
       }
     ],
     "languages": [
