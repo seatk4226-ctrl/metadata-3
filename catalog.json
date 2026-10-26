@@ -1344,6 +1344,76 @@
     "added_ts": 1792577834
   },
   {
+    "id": "game-2286770",
+    "appid": 2286770,
+    "name": "纸嫁衣4红丝缠",
+    "developer": "HeartBeat Plus",
+    "publisher": "HeartBeat Plus",
+    "installdir": "paperbride4",
+    "launch_exes": [
+      "hsc.exe"
+    ],
+    "launch_exe": "hsc.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24293232",
+    "has_metadata": true,
+    "depot_base": 2286771,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2286770/0170bc078d6f1380ddbdd16a4ef46a9b6d69395a/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2286770/fab1d63efba9402f476d63e15d62bb655bd0922d/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24293232",
+        "branch": "public",
+        "label": "Public - Build 24293232 (07/20/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "2286771",
+          "2286772",
+          "2286773",
+          "2361200",
+          "2361210"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793030980
+  },
+  {
     "id": "game-2369390",
     "appid": 2369390,
     "name": "Far Cry 6",
