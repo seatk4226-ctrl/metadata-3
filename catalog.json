@@ -2797,6 +2797,71 @@
     "added_ts": 1792838490
   },
   {
+    "id": "game-3527290",
+    "appid": 3527290,
+    "name": "PEAK",
+    "developer": "Team PEAK",
+    "publisher": "Aggro Crab",
+    "installdir": "PEAK",
+    "launch_exes": [
+      "PEAK.exe"
+    ],
+    "launch_exe": "PEAK.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26155610",
+    "has_metadata": true,
+    "depot_base": 3527291,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3527290/480bd879ac737921bfa2529a6fea15961267ad21/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26155610",
+        "branch": "public",
+        "label": "Public - Build 26155610 (10/23/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "3527291"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793017257
+  },
+  {
     "id": "game-3595270",
     "appid": 3595270,
     "name": "Call of Duty®: Modern Warfare® III",
