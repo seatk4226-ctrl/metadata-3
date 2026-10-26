@@ -2578,6 +2578,77 @@
     "added_ts": 1792426983
   },
   {
+    "id": "game-335300",
+    "appid": 335300,
+    "name": "DARK SOULS™ II: Scholar of the First Sin",
+    "developer": "FromSoftware, Inc.",
+    "publisher": "Bandai Namco Entertainment",
+    "installdir": "Dark Souls II Scholar of the First Sin",
+    "launch_exes": [
+      "Game/DarkSoulsII.exe",
+      "DarkSoulsII.exe"
+    ],
+    "launch_exe": "Game/DarkSoulsII.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "9527516",
+    "has_metadata": true,
+    "depot_base": 335301,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/335300/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "9527516",
+        "branch": "public",
+        "label": "Public - Build 9527516 (09/16/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228982",
+          "228983",
+          "228990",
+          "335301",
+          "335302"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793011687
+  },
+  {
     "id": "game-339340",
     "appid": 339340,
     "name": "Resident Evil 0",
