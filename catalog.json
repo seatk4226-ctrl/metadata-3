@@ -367,6 +367,77 @@
     "added_ts": 1792841219
   },
   {
+    "id": "game-1643320",
+    "appid": 1643320,
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "developer": "GSC Game World",
+    "publisher": "GSC Game World (worldwide)",
+    "installdir": "S.T.A.L.K.E.R. 2 Heart of Chornobyl",
+    "launch_exes": [
+      "Stalker2.exe"
+    ],
+    "launch_exe": "Stalker2.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26123434",
+    "has_metadata": true,
+    "depot_base": 1643321,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1643320/72e5645cc5e5a3fb5b3b6e2c293b0f7e537c22f9/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1643320/9c8da5440ab033af46b9c7fecfd37166479d2ea6/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26123434",
+        "branch": "public",
+        "label": "Public - Build 26123434 (10/22/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "229005",
+          "1643321",
+          "3765020",
+          "3765021"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793088785
+  },
+  {
     "id": "game-1721470",
     "appid": 1721470,
     "name": "Poppy Playtime",
