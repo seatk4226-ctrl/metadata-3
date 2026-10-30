@@ -2476,6 +2476,72 @@
     "added_ts": 1793031620
   },
   {
+    "id": "game-3241660",
+    "appid": 3241660,
+    "name": "R.E.P.O.",
+    "developer": "semiwork",
+    "publisher": "semiwork",
+    "installdir": "REPO",
+    "launch_exes": [
+      "REPO.exe"
+    ],
+    "launch_exe": "REPO.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26294889",
+    "has_metadata": true,
+    "depot_base": 3241661,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3241660/46b4813ef1cd20664299c9e5de847f3579b44f2e/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26294889",
+        "branch": "public v0.5.0",
+        "label": "public v0.5.0 - Build 26294889 (10/29/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "3241661"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793339079
+  },
+  {
     "id": "game-3259780",
     "appid": 3259780,
     "name": "FINAL FANTASY RESONANCE",
