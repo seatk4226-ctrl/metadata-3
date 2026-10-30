@@ -2516,6 +2516,66 @@
             "is_default": true
           }
         ]
+      },
+      {
+        "id": "23363152",
+        "branch": "public v0.4.4",
+        "label": "public v0.4.4 - Build 23363152 (05/22/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3241661"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "23250495",
+        "branch": "public v0.4.3",
+        "label": "public v0.4.3 - Build 23250495 (05/15/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3241661"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "20947852 v0.3.2",
+        "branch": "public",
+        "label": "Public - Build 20947852 v0.3.2 (11/26/2025)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "3241661"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
       }
     ],
     "languages": [

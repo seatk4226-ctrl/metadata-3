@@ -13,6 +13,45 @@
           "download": 1015444912
         }
       }
+    },
+    {
+      "buildId": "23363152",
+      "branch": "public v0.4.4",
+      "timeUpdated": 1779452588,
+      "firstSeen": 1793340959,
+      "manifests": {
+        "3241661": {
+          "gid": "8225435692675993447",
+          "size": 1492605039,
+          "download": 598508256
+        }
+      }
+    },
+    {
+      "buildId": "23250495",
+      "branch": "public v0.4.3",
+      "timeUpdated": 1778841921,
+      "firstSeen": 1793340959,
+      "manifests": {
+        "3241661": {
+          "gid": "904171297352072404",
+          "size": 1719034146,
+          "download": 607339520
+        }
+      }
+    },
+    {
+      "buildId": "20947852 v0.3.2",
+      "branch": "public",
+      "timeUpdated": 1764151486,
+      "firstSeen": 1793340959,
+      "manifests": {
+        "3241661": {
+          "gid": "180069324351455863",
+          "size": 1736981393,
+          "download": 864066368
+        }
+      }
     }
   ],
   "_change_number": 40381835,
