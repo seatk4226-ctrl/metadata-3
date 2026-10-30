@@ -2558,9 +2558,9 @@
         ]
       },
       {
-        "id": "20947852 v0.3.2",
-        "branch": "public",
-        "label": "Public - Build 20947852 v0.3.2 (11/26/2025)",
+        "id": "20947852",
+        "branch": "public v0.3.2",
+        "label": "public v0.3.2 - Build 20947852 (11/26/2025)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
