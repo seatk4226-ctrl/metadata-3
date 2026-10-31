@@ -1,0 +1,881 @@
+{
+  "_lastChecked": 1793425005,
+  "_history": [
+    {
+      "buildId": "25351902",
+      "branch": "public",
+      "timeUpdated": 1789580496,
+      "firstSeen": 1793425505,
+      "manifests": {
+        "2195251": {
+          "gid": "4723456742975491988",
+          "size": 48498254494,
+          "download": 47077021008
+        },
+        "2195252": {
+          "gid": "5753256006663122913",
+          "size": 4011837356,
+          "download": 3503487504
+        },
+        "2195253": {
+          "gid": "7169213177076690549",
+          "size": 1517416598,
+          "download": 1396926912
+        },
+        "2195254": {
+          "gid": "7313296269812914962",
+          "size": 931832603,
+          "download": 856270016
+        },
+        "2195255": {
+          "gid": "7658202119952883414",
+          "size": 1292391254,
+          "download": 1190573936
+        },
+        "2195256": {
+          "gid": "9134914965297031731",
+          "size": 4012101948,
+          "download": 3505479472
+        },
+        "2195257": {
+          "gid": "406239311335012124",
+          "size": 1182392687,
+          "download": 1085985008
+        },
+        "2195258": {
+          "gid": "9098532007659758521",
+          "size": 1183738773,
+          "download": 1088585376
+        },
+        "2195259": {
+          "gid": "2984014897788654578",
+          "size": 4011854191,
+          "download": 3503499904
+        },
+        "2195261": {
+          "gid": "4637663115591547376",
+          "size": 1349614516,
+          "download": 1239765952
+        },
+        "2195262": {
+          "gid": "7559932114893760018",
+          "size": 1491671532,
+          "download": 1340910320
+        },
+        "2195263": {
+          "gid": "5979612275878234768",
+          "size": 4011865786,
+          "download": 3505474000
+        },
+        "2195264": {
+          "gid": "8106408410273569613",
+          "size": 1366673745,
+          "download": 1259097376
+        },
+        "2195265": {
+          "gid": "7522052412643969044",
+          "size": 4011870714,
+          "download": 3503502688
+        },
+        "2195266": {
+          "gid": "2823769696306024489",
+          "size": 1572245685,
+          "download": 1444341456
+        },
+        "2195267": {
+          "gid": "5302339091281194003",
+          "size": 4011871023,
+          "download": 3503502000
+        },
+        "2195268": {
+          "gid": "6646273946130921115",
+          "size": 4011876057,
+          "download": 3505473952
+        },
+        "2195269": {
+          "gid": "5342059289493914947",
+          "size": 4011902596,
+          "download": 3504492704
+        },
+        "2290730": {
+          "gid": "339503378129148470",
+          "size": 4011869963,
+          "download": 3504488416
+        },
+        "2290731": {
+          "gid": "5168242989204681338",
+          "size": 1708240064,
+          "download": 1572714448
+        },
+        "2290732": {
+          "gid": "642355165602148888",
+          "size": 1539486147,
+          "download": 1414590048
+        },
+        "2290733": {
+          "gid": "2058883519276328635",
+          "size": 1557809128,
+          "download": 1426437536
+        },
+        "3340991": {
+          "gid": "8430176064263014822",
+          "size": 253454375,
+          "download": 253144032
+        },
+        "3893181": {
+          "gid": "2188757989082649823",
+          "size": 355697889,
+          "download": 328909824
+        }
+      }
+    },
+    {
+      "buildId": "17639013",
+      "branch": "public",
+      "timeUpdated": 1741369542,
+      "firstSeen": 1793425505,
+      "manifests": {
+        "2195251": {
+          "gid": "7672999823056687052",
+          "size": 48497503788,
+          "download": 47076406416
+        },
+        "2195252": {
+          "gid": "6083654604081128551",
+          "size": 4011837563,
+          "download": 3503490336
+        },
+        "2195253": {
+          "gid": "6094148585544173744",
+          "size": 1517416805,
+          "download": 1396926912
+        },
+        "2195254": {
+          "gid": "7344535039234877652",
+          "size": 931832810,
+          "download": 856270016
+        },
+        "2195255": {
+          "gid": "5244360507398075617",
+          "size": 1292391461,
+          "download": 1190573936
+        },
+        "2195256": {
+          "gid": "8528604553957941022",
+          "size": 4012102155,
+          "download": 3505482304
+        },
+        "2195257": {
+          "gid": "8438942418215566453",
+          "size": 1182392894,
+          "download": 1085985008
+        },
+        "2195258": {
+          "gid": "8030570588454823983",
+          "size": 1183738980,
+          "download": 1088585376
+        },
+        "2195259": {
+          "gid": "8134537974176079517",
+          "size": 4011854398,
+          "download": 3503502736
+        },
+        "2195261": {
+          "gid": "4119361506380638029",
+          "size": 1349614723,
+          "download": 1239765952
+        },
+        "2195262": {
+          "gid": "4340316173116628039",
+          "size": 1491671739,
+          "download": 1340910320
+        },
+        "2195263": {
+          "gid": "1069830801541967861",
+          "size": 4011865993,
+          "download": 3505476832
+        },
+        "2195264": {
+          "gid": "8408396513563688094",
+          "size": 1366673952,
+          "download": 1259097376
+        },
+        "2195265": {
+          "gid": "8738284959829421455",
+          "size": 4011870921,
+          "download": 3503505520
+        },
+        "2195266": {
+          "gid": "3090738039087397089",
+          "size": 1572245892,
+          "download": 1444341456
+        },
+        "2195267": {
+          "gid": "3444972824702607822",
+          "size": 4011871230,
+          "download": 3503504832
+        },
+        "2195268": {
+          "gid": "6874302241456915297",
+          "size": 4011876264,
+          "download": 3505476784
+        },
+        "2195269": {
+          "gid": "4671975196246909993",
+          "size": 4011902803,
+          "download": 3504495536
+        },
+        "2290730": {
+          "gid": "1888142871724331463",
+          "size": 4011870170,
+          "download": 3504491248
+        },
+        "2290731": {
+          "gid": "8764455488340796665",
+          "size": 1708240271,
+          "download": 1572714448
+        },
+        "2290732": {
+          "gid": "8116001033448005482",
+          "size": 1539486354,
+          "download": 1414590048
+        },
+        "2290733": {
+          "gid": "3337924621954580139",
+          "size": 1557809335,
+          "download": 1426437536
+        },
+        "3340991": {
+          "gid": "8430176064263014822",
+          "size": 253454375,
+          "download": 253144032
+        },
+        "3893181": {
+          "gid": "2188757989082649823",
+          "size": 355697889,
+          "download": 328909824
+        }
+      }
+    }
+  ],
+  "_change_number": 40146752,
+  "_missing_token": false,
+  "_sha": "d0bf89a67d5e75bed51a0966595da323e0bb2307",
+  "_size": 12177,
+  "appid": "2195250",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "EA Canada",
+        "type": "developer"
+      },
+      "1": {
+        "name": "EA Romania",
+        "type": "developer"
+      },
+      "2": {
+        "name": "Electronic Arts",
+        "type": "publisher"
+      },
+      "3": {
+        "name": "EA Sports",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_24": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_38": "1",
+      "category_39": "1",
+      "category_44": "1",
+      "category_49": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_61": "1",
+      "category_69": "1",
+      "category_75": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "clienticon": "161f64306da0c9ce5ba56cf4f8a1476f719cc2d3",
+    "clienttga": "20c85c4b06587dc66438ee81bde1f9dc3edac88a",
+    "community_hub_visible": "1",
+    "community_visible_stats": "1",
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "eulas": {
+      "0": {
+        "id": "2195250_eula_1",
+        "name": "EA SPORTS FC™ 24 EULA",
+        "url": "https://store.steampowered.com//eula/2195250_eula_1"
+      }
+    },
+    "exfgls": "1",
+    "gameid": "2195250",
+    "genres": {
+      "0": "28",
+      "1": "18"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "icon": "d01e05e0fb8e77c790c699b4fa0a9559cf80d16d",
+    "languages": {
+      "arabic": "1",
+      "brazilian": "1",
+      "czech": "1",
+      "danish": "1",
+      "dutch": "1",
+      "english": "1",
+      "french": "1",
+      "german": "1",
+      "italian": "1",
+      "japanese": "1",
+      "koreana": "1",
+      "latam": "1",
+      "norwegian": "1",
+      "polish": "1",
+      "portuguese": "1",
+      "russian": "1",
+      "schinese": "1",
+      "spanish": "1",
+      "swedish": "1",
+      "tchinese": "1",
+      "turkish": "1"
+    },
+    "library_assets": {
+      "library_capsule": "en",
+      "library_hero": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "78.46441549384599",
+        "pinned_position": "BottomLeft",
+        "width_pct": "65.67607288366835"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "library_600x900.jpg"
+        },
+        "image2x": {
+          "english": "library_600x900_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "library_hero.jpg"
+        },
+        "image2x": {
+          "english": "library_hero_2x.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "logo.png"
+        },
+        "image2x": {
+          "english": "logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "78.46441549384599",
+          "pinned_position": "BottomLeft",
+          "width_pct": "65.67607288366835"
+        }
+      }
+    },
+    "name": "EA SPORTS FC™ 24",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "primary_genre": "28",
+    "releasestate": "released",
+    "review_percentage": "58",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "d6dc14d0838436f193a7387e0d8289aabc7b9932/capsule_231x87.jpg"
+    },
+    "steam_deck_compatibility": {
+      "category": "1",
+      "configuration": {
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "0",
+        "primary_player_is_controller_slot_0": "0",
+        "recommended_runtime": "proton-experimental",
+        "requires_h264": "0",
+        "requires_internet_for_setup": "0",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "0",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "small_text": "0",
+        "supported_input": "other"
+      },
+      "steam_machine_compatibility": "1",
+      "steam_machine_tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamMachine_TestResult_UnsupportedAntiCheat_Other"
+        }
+      },
+      "steamos_compatibility": "1",
+      "steamos_tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamOS_TestResult_UnsupportedAntiCheat_Other"
+        }
+      },
+      "test_timestamp": "1694476800",
+      "tested_build_id": "11928293",
+      "tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamDeckVerified_TestResult_UnsupportedAntiCheat_Other"
+        }
+      }
+    },
+    "steam_release_date": "1695960000",
+    "store_asset_mtime": "1752167361",
+    "store_tags": {
+      "0": "1254546",
+      "1": "701",
+      "10": "599",
+      "11": "3843",
+      "12": "4182",
+      "13": "3841",
+      "14": "4175",
+      "15": "1685",
+      "16": "5350",
+      "17": "19",
+      "18": "3839",
+      "19": "493",
+      "2": "7481",
+      "3": "3859",
+      "4": "1775",
+      "5": "5055",
+      "6": "3878",
+      "7": "6730",
+      "8": "7368",
+      "9": "4191"
+    },
+    "supported_languages": {
+      "arabic": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "danish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "norwegian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "portuguese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "EA Sports FC 24",
+    "launch": {
+      "0": {
+        "executable": "steam2ea://launchgame/2195250?platform=steam&theme=fc24"
+      }
+    }
+  },
+  "depots": {
+    "2195251": {
+      "manifests": {
+        "public": {
+          "download": "47077021008",
+          "gid": "4723456742975491988",
+          "size": "48498254494"
+        }
+      }
+    },
+    "2195252": {
+      "config": {
+        "language": "english"
+      },
+      "manifests": {
+        "public": {
+          "download": "3503487504",
+          "gid": "5753256006663122913",
+          "size": "4011837356"
+        }
+      }
+    },
+    "2195253": {
+      "config": {
+        "language": "german"
+      },
+      "manifests": {
+        "public": {
+          "download": "1396926912",
+          "gid": "7169213177076690549",
+          "size": "1517416598"
+        }
+      }
+    },
+    "2195254": {
+      "config": {
+        "language": "french"
+      },
+      "manifests": {
+        "public": {
+          "download": "856270016",
+          "gid": "7313296269812914962",
+          "size": "931832603"
+        }
+      }
+    },
+    "2195255": {
+      "config": {
+        "language": "italian"
+      },
+      "manifests": {
+        "public": {
+          "download": "1190573936",
+          "gid": "7658202119952883414",
+          "size": "1292391254"
+        }
+      }
+    },
+    "2195256": {
+      "config": {
+        "language": "koreana"
+      },
+      "manifests": {
+        "public": {
+          "download": "3505479472",
+          "gid": "9134914965297031731",
+          "size": "4012101948"
+        }
+      }
+    },
+    "2195257": {
+      "config": {
+        "language": "spanish"
+      },
+      "manifests": {
+        "public": {
+          "download": "1085985008",
+          "gid": "406239311335012124",
+          "size": "1182392687"
+        }
+      }
+    },
+    "2195258": {
+      "config": {
+        "language": "schinese"
+      },
+      "manifests": {
+        "public": {
+          "download": "1088585376",
+          "gid": "9098532007659758521",
+          "size": "1183738773"
+        }
+      }
+    },
+    "2195259": {
+      "config": {
+        "language": "tchinese"
+      },
+      "manifests": {
+        "public": {
+          "download": "3503499904",
+          "gid": "2984014897788654578",
+          "size": "4011854191"
+        }
+      }
+    },
+    "2195261": {
+      "config": {
+        "language": "russian"
+      },
+      "manifests": {
+        "public": {
+          "download": "1239765952",
+          "gid": "4637663115591547376",
+          "size": "1349614516"
+        }
+      }
+    },
+    "2195262": {
+      "config": {
+        "language": "japanese"
+      },
+      "manifests": {
+        "public": {
+          "download": "1340910320",
+          "gid": "7559932114893760018",
+          "size": "1491671532"
+        }
+      }
+    },
+    "2195263": {
+      "config": {
+        "language": "portuguese"
+      },
+      "manifests": {
+        "public": {
+          "download": "3505474000",
+          "gid": "5979612275878234768",
+          "size": "4011865786"
+        }
+      }
+    },
+    "2195264": {
+      "config": {
+        "language": "polish"
+      },
+      "manifests": {
+        "public": {
+          "download": "1259097376",
+          "gid": "8106408410273569613",
+          "size": "1366673745"
+        }
+      }
+    },
+    "2195265": {
+      "config": {
+        "language": "danish"
+      },
+      "manifests": {
+        "public": {
+          "download": "3503502688",
+          "gid": "7522052412643969044",
+          "size": "4011870714"
+        }
+      }
+    },
+    "2195266": {
+      "config": {
+        "language": "dutch"
+      },
+      "manifests": {
+        "public": {
+          "download": "1444341456",
+          "gid": "2823769696306024489",
+          "size": "1572245685"
+        }
+      }
+    },
+    "2195267": {
+      "config": {
+        "language": "norwegian"
+      },
+      "manifests": {
+        "public": {
+          "download": "3503502000",
+          "gid": "5302339091281194003",
+          "size": "4011871023"
+        }
+      }
+    },
+    "2195268": {
+      "config": {
+        "language": "swedish"
+      },
+      "manifests": {
+        "public": {
+          "download": "3505473952",
+          "gid": "6646273946130921115",
+          "size": "4011876057"
+        }
+      }
+    },
+    "2195269": {
+      "config": {
+        "language": "czech"
+      },
+      "manifests": {
+        "public": {
+          "download": "3504492704",
+          "gid": "5342059289493914947",
+          "size": "4011902596"
+        }
+      }
+    },
+    "2290730": {
+      "config": {
+        "language": "turkish"
+      },
+      "manifests": {
+        "public": {
+          "download": "3504488416",
+          "gid": "339503378129148470",
+          "size": "4011869963"
+        }
+      }
+    },
+    "2290731": {
+      "config": {
+        "language": "arabic"
+      },
+      "manifests": {
+        "public": {
+          "download": "1572714448",
+          "gid": "5168242989204681338",
+          "size": "1708240064"
+        }
+      }
+    },
+    "2290732": {
+      "config": {
+        "language": "brazilian"
+      },
+      "manifests": {
+        "public": {
+          "download": "1414590048",
+          "gid": "642355165602148888",
+          "size": "1539486147"
+        }
+      }
+    },
+    "2290733": {
+      "config": {
+        "language": "latam"
+      },
+      "manifests": {
+        "public": {
+          "download": "1426437536",
+          "gid": "2058883519276328635",
+          "size": "1557809128"
+        }
+      }
+    },
+    "3340991": {
+      "depotfromapp": "3340990",
+      "manifests": {
+        "public": {
+          "download": "253144032",
+          "gid": "8430176064263014822",
+          "size": "253454375"
+        }
+      }
+    },
+    "3893181": {
+      "depotfromapp": "3893180",
+      "manifests": {
+        "public": {
+          "download": "328909824",
+          "gid": "2188757989082649823",
+          "size": "355697889"
+        }
+      }
+    },
+    "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,polish,danish,dutch,norwegian,swedish,czech,turkish,arabic,brazilian,latam",
+    "branches": {
+      "public": {
+        "buildid": "25351902",
+        "timebuildupdated": "1789580499",
+        "timeupdated": "1790870417"
+      }
+    },
+    "privatebranches": "1"
+  },
+  "extended": {
+    "allowmicrotxnfromrestrictedcountries": "0",
+    "developer": "EA Canada",
+    "homepage": "https://www.ea.com/games/FC",
+    "listofdlc": "2195260,2308280,2380510,2380511,2380512,2380513,2563700,2565620,3102930",
+    "microtxnrestrictedcountries": "RU,BY",
+    "minclientversion": "1694466342",
+    "publisher": "Electronic Arts"
+  }
+}
