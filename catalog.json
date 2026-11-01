@@ -6848,6 +6848,78 @@
     "added_ts": 1792771501
   },
   {
+    "id": "game-582010",
+    "appid": 582010,
+    "name": "Monster Hunter: World",
+    "developer": "CAPCOM Co., Ltd.",
+    "publisher": "CAPCOM Co., Ltd.",
+    "installdir": "Monster Hunter World",
+    "launch_exes": [
+      "MonsterHunterWorld.exe"
+    ],
+    "launch_exe": "MonsterHunterWorld.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "15539686",
+    "has_metadata": true,
+    "depot_base": 582011,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582010/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "15539686",
+        "branch": "public",
+        "label": "Public - Build 15539686 (08/30/2024)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "582011",
+          "582012",
+          "912541",
+          "912542",
+          "912543",
+          "912544",
+          "912545",
+          "912546"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793520388
+  },
+  {
     "id": "game-582160",
     "appid": 582160,
     "name": "Assassin's Creed Origins",
