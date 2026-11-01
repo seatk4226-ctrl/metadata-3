@@ -5332,6 +5332,71 @@
     "added_ts": 1792735030
   },
   {
+    "id": "game-4348910",
+    "appid": 4348910,
+    "name": "Probably Stolen",
+    "developer": "Questing Goose Studio",
+    "publisher": "tinyBuild",
+    "installdir": "Probably Stolen",
+    "launch_exes": [
+      "Probably Stolen.exe"
+    ],
+    "launch_exe": "Probably Stolen.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26337366",
+    "has_metadata": true,
+    "depot_base": 4348911,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4348910/5cb0a6457762778c2c3bcaaa06768bb77cc791a8/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4348910/dd02af11fdd7dd4ebca6a1c6f01278ba75e3419c/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26337366",
+        "branch": "public",
+        "label": "Public - Build 26337366 (10/31/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "4348911"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793557691
+  },
+  {
     "id": "game-447040",
     "appid": 447040,
     "name": "Watch_Dogs 2",
