@@ -6665,6 +6665,28 @@
             "is_default": true
           }
         ]
+      },
+      {
+        "id": "24800155",
+        "branch": "public",
+        "label": "Public - Build 24800155 (08/18/2026) · Sắp có mặt (Update soon)",
+        "is_ready": false,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "4796831"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
       }
     ],
     "languages": [
