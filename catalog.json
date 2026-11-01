@@ -6624,6 +6624,73 @@
     "added_ts": 1792864123
   },
   {
+    "id": "game-4796830",
+    "appid": 4796830,
+    "name": "WE ARE SO DEAD",
+    "developer": "REAL PLAYERS",
+    "publisher": "REAL PLAYERS",
+    "installdir": "WE ARE SO DEAD",
+    "launch_exes": [
+      "OUTSIDE.exe"
+    ],
+    "launch_exe": "OUTSIDE.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "24992421",
+    "has_metadata": true,
+    "depot_base": 4796831,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4796830/2231d63f7c189f02bf582a237c2b07c22772ae4a/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/4796830/d0f51a2e0497ac208b2604562779b648015eb7f3/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "24992421",
+        "branch": "public",
+        "label": "Public - Build 24992421 (08/28/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "4796831"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793513724
+  },
+  {
     "id": "game-4968640",
     "appid": 4968640,
     "name": "Japanese Ramen Simulator",
