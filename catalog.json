@@ -1407,6 +1407,75 @@
     "added_ts": 1792958011
   },
   {
+    "id": "game-207610",
+    "appid": 207610,
+    "name": "The Walking Dead",
+    "developer": "Telltale Games",
+    "publisher": "Skybound Games",
+    "installdir": "The Walking Dead",
+    "launch_exes": [
+      "WalkingDead101.exe",
+      "TheWalkingDead.app"
+    ],
+    "launch_exe": "WalkingDead101.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "244978",
+    "has_metadata": true,
+    "depot_base": 207611,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/207610/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/207610/4bb60dec9d6601fca70a2f8da031ec4c750bd0bf/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "244978",
+        "branch": "public",
+        "label": "Public - Build 244978 (04/26/2014)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "207611",
+          "207612",
+          "207620"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793611259
+  },
+  {
     "id": "game-2121510",
     "appid": 2121510,
     "name": "Tenebris Somnia",
