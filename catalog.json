@@ -3796,6 +3796,74 @@
     "added_ts": 1793423684
   },
   {
+    "id": "game-2774380",
+    "appid": 2774380,
+    "name": "Hospital 666",
+    "developer": "Lokin",
+    "publisher": "Lokin",
+    "installdir": "Hospital 666",
+    "launch_exes": [
+      "Hospital666.exe"
+    ],
+    "launch_exe": "Hospital666.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "13926668",
+    "has_metadata": true,
+    "depot_base": 2774381,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2774380/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2774380/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "13926668",
+        "branch": "public",
+        "label": "Public - Build 13926668 (04/03/2024)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "2774381"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793699397
+  },
+  {
     "id": "game-2988580",
     "appid": 2988580,
     "name": "Yakuza 0 Director's Cut",
