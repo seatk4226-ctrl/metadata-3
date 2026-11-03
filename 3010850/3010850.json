@@ -1,0 +1,924 @@
+{
+  "_lastChecked": 1793693478,
+  "_history": [
+    {
+      "buildId": "26267240",
+      "branch": "public",
+      "timeUpdated": 1793181771,
+      "firstSeen": 1793693589,
+      "manifests": {
+        "228988": {
+          "gid": "6645201662696499616",
+          "size": 29212173,
+          "download": 22411856
+        },
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "3010851": {
+          "gid": "2170355285741294403",
+          "size": 116931097391,
+          "download": 110710310992
+        },
+        "3010852": {
+          "gid": "3250972495842122498",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "3010853": {
+          "gid": "2649319411817757181",
+          "size": 1056421061,
+          "download": 993263680
+        },
+        "3010854": {
+          "gid": "6162541122772716469",
+          "size": 1080477495,
+          "download": 1017944672
+        },
+        "3010855": {
+          "gid": "217505613389882305",
+          "size": 1096022041,
+          "download": 1033916848
+        },
+        "3010856": {
+          "gid": "1286697797833544069",
+          "size": 1164173525,
+          "download": 1101481536
+        },
+        "3010857": {
+          "gid": "1347072981601275988",
+          "size": 1075972560,
+          "download": 1012508480
+        },
+        "3010858": {
+          "gid": "9023442080807849728",
+          "size": 1065467792,
+          "download": 1002003728
+        },
+        "3010859": {
+          "gid": "6656890117309925468",
+          "size": 986205902,
+          "download": 922369008
+        },
+        "4632451": {
+          "gid": "9053116163961707448",
+          "size": 1039991986,
+          "download": 976218512
+        },
+        "4632452": {
+          "gid": "2312911011265024899",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4632453": {
+          "gid": "2985273991949942842",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4632454": {
+          "gid": "3481120455385502984",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4632455": {
+          "gid": "9058123531185643107",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4632456": {
+          "gid": "6341019598981891717",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4632457": {
+          "gid": "7551188641156749891",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4632458": {
+          "gid": "3348657740827336311",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4632459": {
+          "gid": "1812014339660071954",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4637141": {
+          "gid": "3749746053585543375",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4637142": {
+          "gid": "8801998444732120623",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4637143": {
+          "gid": "529586198022504094",
+          "size": 1267447589,
+          "download": 1194429472
+        },
+        "4637144": {
+          "gid": "2958638777193060206",
+          "size": 1007713192,
+          "download": 944581664
+        },
+        "4637145": {
+          "gid": "2716498528260393797",
+          "size": 1065999521,
+          "download": 1003704688
+        }
+      }
+    }
+  ],
+  "_change_number": 40516315,
+  "_missing_token": false,
+  "_sha": "56c83ccc7ace3332ed72b8ae4fd5479694b31cf9",
+  "_size": 15850,
+  "appid": "3010850",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "The Coalition",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Xbox Game Studios",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "Gears of War",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_49": "1",
+      "category_57": "1",
+      "category_61": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "clienticon": "53a324b2edd5bccb96e8e9e6066dad6820e1e809",
+    "clienttga": "c1e2ffd97cae7c8c31ad7805907fe33e6a85133c",
+    "community_hub_visible": "1",
+    "community_visible_stats": "1",
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "eulas": {
+      "0": {
+        "id": "3010850_eula_0",
+        "name": "Gears of War: E-Day EULA",
+        "url": "https://store.steampowered.com//eula/3010850_eula_0",
+        "version": "1"
+      }
+    },
+    "gameid": "3010850",
+    "genres": {
+      "0": "1",
+      "1": "25"
+    },
+    "header_image": {
+      "english": "1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg"
+    },
+    "icon": "53a324b2edd5bccb96e8e9e6066dad6820e1e809",
+    "languages": {
+      "arabic": "1",
+      "brazilian": "1",
+      "czech": "1",
+      "dutch": "1",
+      "english": "1",
+      "finnish": "1",
+      "french": "1",
+      "german": "1",
+      "hungarian": "1",
+      "italian": "1",
+      "japanese": "1",
+      "koreana": "1",
+      "latam": "1",
+      "norwegian": "1",
+      "polish": "1",
+      "portuguese": "1",
+      "russian": "1",
+      "schinese": "1",
+      "spanish": "1",
+      "swedish": "1",
+      "tchinese": "1",
+      "turkish": "1"
+    },
+    "library_assets": {
+      "library_capsule": "en",
+      "library_header": "en",
+      "library_hero": "en",
+      "library_hero_blur": "en",
+      "library_logo": "en",
+      "logo_position": {
+        "height_pct": "50",
+        "pinned_position": "BottomLeft",
+        "width_pct": "50"
+      }
+    },
+    "library_assets_full": {
+      "library_capsule": {
+        "image": {
+          "english": "f81b268dd5cb697bb6fc73e718f3a57a70657211/library_capsule.jpg"
+        },
+        "image2x": {
+          "english": "f81b268dd5cb697bb6fc73e718f3a57a70657211/library_capsule_2x.jpg"
+        }
+      },
+      "library_header": {
+        "image": {
+          "english": "11e1b8a1e01e50342374d0541d02323a9c2d1935/library_header.jpg"
+        },
+        "image2x": {
+          "english": "11e1b8a1e01e50342374d0541d02323a9c2d1935/library_header_2x.jpg"
+        }
+      },
+      "library_hero": {
+        "image": {
+          "english": "b5751ae4302e34a0fdc216f7d23ba07a8d041443/library_hero.jpg"
+        },
+        "image2x": {
+          "english": "b5751ae4302e34a0fdc216f7d23ba07a8d041443/library_hero_2x.jpg"
+        }
+      },
+      "library_hero_blur": {
+        "image": {
+          "english": "b5751ae4302e34a0fdc216f7d23ba07a8d041443/library_hero_blur.jpg"
+        }
+      },
+      "library_logo": {
+        "image": {
+          "english": "3345984f772e14dc90a3f46f508f23437b1038c0/logo.png"
+        },
+        "image2x": {
+          "english": "3345984f772e14dc90a3f46f508f23437b1038c0/logo_2x.png"
+        },
+        "logo_position": {
+          "height_pct": "50",
+          "pinned_position": "BottomLeft",
+          "width_pct": "50"
+        }
+      }
+    },
+    "name": "Gears of War: E-Day",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "72",
+    "review_score": "6",
+    "small_capsule": {
+      "english": "d0917fcdbf27faffb3380f6f67e71e90f84b7ed5/capsule_231x87.jpg"
+    },
+    "steam_deck_compatibility": {
+      "category": "1",
+      "configuration": {
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "0",
+        "primary_player_is_controller_slot_0": "0",
+        "recommended_runtime": "proton-stable",
+        "requires_h264": "0",
+        "requires_internet_for_setup": "0",
+        "requires_internet_for_singleplayer": "1",
+        "requires_manual_keyboard_invoke": "0",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "small_text": "0",
+        "supported_input": "other"
+      },
+      "steam_machine_compatibility": "3",
+      "steam_machine_tests": {
+        "0": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultControllerConfigFullyFunctional"
+        },
+        "1": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_ControllerGlyphsMatchDevice"
+        },
+        "2": {
+          "display": "4",
+          "token": "#SteamMachine_TestResult_DefaultConfigurationIsPerformant"
+        },
+        "3": {
+          "display": "1",
+          "token": "#SteamMachine_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+        }
+      },
+      "steamos_compatibility": "2",
+      "steamos_tests": {
+        "0": {
+          "display": "3",
+          "token": "#SteamOS_TestResult_GameStartupFunctional"
+        },
+        "1": {
+          "display": "1",
+          "token": "#SteamOS_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+        }
+      },
+      "test_timestamp": "1791300559",
+      "tested_build_id": "25319502",
+      "tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+        }
+      }
+    },
+    "steam_frame_compatibility": {
+      "category": "1",
+      "configuration": {
+        "fdm_debug": "",
+        "gamescope_frame_limiter_not_supported": "0",
+        "hdr_support": "0",
+        "non_deck_display_glyphs": "0",
+        "primary_player_is_controller_slot_0": "0",
+        "recommended_runtime": "proton-stable",
+        "requires_h264": "0",
+        "requires_internet_for_setup": "0",
+        "requires_internet_for_singleplayer": "0",
+        "requires_manual_keyboard_invoke": "0",
+        "requires_non_controller_launcher_nav": "0",
+        "requires_proton_soundfonts": "0",
+        "requires_voice_files": "0",
+        "rpo_debug": "",
+        "small_text": "0",
+        "supported_input": "other",
+        "tso_enable": "0"
+      },
+      "test_timestamp": "1791477726",
+      "tested_build_id": "25708270",
+      "tests": {
+        "0": {
+          "display": "2",
+          "token": "#SteamFrame_TestResult_UnsupportedAntiCheatConfiguration"
+        }
+      }
+    },
+    "steam_release_date": "1791298835",
+    "store_asset_mtime": "1792082881",
+    "store_tags": {
+      "0": "7208",
+      "1": "19",
+      "10": "1667",
+      "11": "4182",
+      "12": "21",
+      "13": "1742",
+      "14": "3942",
+      "15": "620519",
+      "16": "10816",
+      "17": "1695",
+      "18": "3841",
+      "19": "7368",
+      "2": "4345",
+      "3": "3814",
+      "4": "1774",
+      "5": "3859",
+      "6": "4508",
+      "7": "1685",
+      "8": "3843",
+      "9": "1697"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "finnish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "hungarian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "norwegian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "portuguese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "Game"
+  },
+  "config": {
+    "installdir": "GoWEDay",
+    "launch": {
+      "0": {
+        "config": {
+          "betakey": "goweday-ship,goweday-in-tusk50, goweday-ship-futurepatch, goweday-static-in-tusk50, goweday-ship-geforce, goweday-in-retail, goweday-valve-review-in-retail",
+          "osarch": "64",
+          "oslist": "windows"
+        },
+        "description": "Gears of War: EDay Protected",
+        "description_loc": {
+          "english": "Gears of War: EDay Protected"
+        },
+        "executable": "start_protected_game.exe",
+        "type": "default"
+      }
+    },
+    "steamcontrollertemplateindex": "2",
+    "steamdecktouchscreen": "1",
+    "uselaunchcommandline": "1"
+  },
+  "depots": {
+    "228988": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "22411856",
+          "gid": "6645201662696499616",
+          "size": "29212173"
+        }
+      }
+    },
+    "228989": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "25108528",
+          "gid": "5753583882400741046",
+          "size": "25674515"
+        }
+      }
+    },
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "100658080",
+          "gid": "1829726630299308803",
+          "size": "102931551"
+        }
+      }
+    },
+    "3010851": {
+      "manifests": {
+        "public": {
+          "download": "110710310992",
+          "gid": "2170355285741294403",
+          "size": "116931097391"
+        }
+      }
+    },
+    "3010852": {
+      "config": {
+        "language": "english",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "3250972495842122498",
+          "size": "1267447589"
+        }
+      }
+    },
+    "3010853": {
+      "config": {
+        "language": "french",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "993263680",
+          "gid": "2649319411817757181",
+          "size": "1056421061"
+        }
+      }
+    },
+    "3010854": {
+      "config": {
+        "language": "italian",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1017944672",
+          "gid": "6162541122772716469",
+          "size": "1080477495"
+        }
+      }
+    },
+    "3010855": {
+      "config": {
+        "language": "german",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1033916848",
+          "gid": "217505613389882305",
+          "size": "1096022041"
+        }
+      }
+    },
+    "3010856": {
+      "config": {
+        "language": "spanish",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1101481536",
+          "gid": "1286697797833544069",
+          "size": "1164173525"
+        }
+      }
+    },
+    "3010857": {
+      "config": {
+        "language": "latam",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1012508480",
+          "gid": "1347072981601275988",
+          "size": "1075972560"
+        }
+      }
+    },
+    "3010858": {
+      "config": {
+        "language": "schinese",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1002003728",
+          "gid": "9023442080807849728",
+          "size": "1065467792"
+        }
+      }
+    },
+    "3010859": {
+      "config": {
+        "language": "tchinese",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "922369008",
+          "gid": "6656890117309925468",
+          "size": "986205902"
+        }
+      }
+    },
+    "4632451": {
+      "config": {
+        "language": "brazilian",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "976218512",
+          "gid": "9053116163961707448",
+          "size": "1039991986"
+        }
+      }
+    },
+    "4632452": {
+      "config": {
+        "language": "arabic",
+        "osarch": "32",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "2312911011265024899",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4632453": {
+      "config": {
+        "language": "czech",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "2985273991949942842",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4632454": {
+      "config": {
+        "language": "dutch",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "3481120455385502984",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4632455": {
+      "config": {
+        "language": "finnish",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "9058123531185643107",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4632456": {
+      "config": {
+        "language": "hungarian",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "6341019598981891717",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4632457": {
+      "config": {
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "7551188641156749891",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4632458": {
+      "config": {
+        "language": "polish",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "3348657740827336311",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4632459": {
+      "config": {
+        "language": "russian",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "1812014339660071954",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4637141": {
+      "config": {
+        "language": "swedish",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "3749746053585543375",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4637142": {
+      "config": {
+        "language": "turkish",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "8801998444732120623",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4637143": {
+      "config": {
+        "language": "portuguese",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1194429472",
+          "gid": "529586198022504094",
+          "size": "1267447589"
+        }
+      }
+    },
+    "4637144": {
+      "config": {
+        "language": "japanese",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "944581664",
+          "gid": "2958638777193060206",
+          "size": "1007713192"
+        }
+      }
+    },
+    "4637145": {
+      "config": {
+        "language": "koreana",
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "public": {
+          "download": "1003704688",
+          "gid": "2716498528260393797",
+          "size": "1065999521"
+        }
+      }
+    },
+    "baselanguages": "arabic,brazilian,czech,dutch,english,finnish,french,german,hungarian,italian,japanese,koreana,latam,norwegian,polish,portuguese,romanian,russian,schinese,spanish,swedish,tchinese,turkish",
+    "branches": {
+      "public": {
+        "buildid": "26267240",
+        "timebuildupdated": "1793181995",
+        "timeupdated": "1793638862"
+      }
+    },
+    "privatebranches": "1"
+  },
+  "extended": {
+    "developer": "The Coalition",
+    "dlcavailableonstore": "1",
+    "listofdlc": "4632450,4637140,4637200,4637220,5027470,5028540,5028550,5028560",
+    "publisher": "Xbox Game Studios"
+  },
+  "ufs": {
+    "maxnumfiles": "100",
+    "quota": "100000000",
+    "savefiles": {
+      "0": {
+        "path": "Microsoft\\Gears of War E-Day\\Saves\\{64BitSteamID}",
+        "pattern": "*.sav",
+        "recursive": "1",
+        "root": "WinAppDataLocal"
+      }
+    }
+  }
+}
