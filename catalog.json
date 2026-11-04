@@ -5921,6 +5921,79 @@
     "added_ts": 1792376004
   },
   {
+    "id": "game-371660",
+    "appid": 371660,
+    "name": "Far Cry Primal",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "installdir": "Far Cry Primal",
+    "launch_exes": [
+      "bin/FCPrimal.exe",
+      "FCPrimal.exe"
+    ],
+    "launch_exe": "bin/FCPrimal.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "8384708",
+    "has_metadata": true,
+    "depot_base": 371661,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/371660/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/371660/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "8384708",
+        "branch": "public",
+        "label": "Public - Build 8384708 (03/17/2022)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228984",
+          "228990",
+          "229002",
+          "229004",
+          "371661",
+          "456310",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793784540
+  },
+  {
     "id": "game-40990",
     "appid": 40990,
     "name": "Mafia",
