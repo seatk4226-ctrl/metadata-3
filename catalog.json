@@ -142,6 +142,74 @@
     "added_ts": 1792437673
   },
   {
+    "id": "game-1272080",
+    "appid": 1272080,
+    "name": "PAYDAY 3",
+    "developer": "Starbreeze Entertainment",
+    "publisher": "Starbreeze Entertainment",
+    "installdir": "PAYDAY3",
+    "launch_exes": [
+      "PAYDAY3.exe"
+    ],
+    "launch_exe": "PAYDAY3.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26292282",
+    "has_metadata": true,
+    "depot_base": 1272081,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1272080/2ce51e2cf233af163f3af390f24465e4dd711a3e/library_capsule.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1272080/1d66ef7e731a18e40b037d39618f7c3dfd614a90/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26292282",
+        "branch": "public",
+        "label": "Public - Build 26292282 (10/29/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "228989",
+          "228990",
+          "1272081"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793806044
+  },
+  {
     "id": "game-1274570",
     "appid": 1274570,
     "name": "DEVOUR",
@@ -1752,8 +1820,8 @@
       {
         "id": "17639013",
         "branch": "public",
-        "label": "Public - Build 17639013 (03/08/2025) · Sắp có mặt (Update soon)",
-        "is_ready": false,
+        "label": "Public - Build 17639013 (03/08/2025)",
+        "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
           "2195251",
@@ -3011,8 +3079,8 @@
       {
         "id": "25661859",
         "branch": "public",
-        "label": "Public - Build 25661859 (10/02/2026) · Sắp có mặt (Update soon)",
-        "is_ready": false,
+        "label": "Public - Build 25661859 (10/02/2026)",
+        "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
           "228983",
@@ -3413,8 +3481,8 @@
       {
         "id": "19641208",
         "branch": "public",
-        "label": "Public - Build 19641208 (08/18/2025) · Sắp có mặt (Update soon)",
-        "is_ready": false,
+        "label": "Public - Build 19641208 (08/18/2025)",
+        "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
           "228988",
@@ -7626,8 +7694,8 @@
       {
         "id": "24800155",
         "branch": "public",
-        "label": "Public - Build 24800155 (08/18/2026) · Sắp có mặt (Update soon)",
-        "is_ready": false,
+        "label": "Public - Build 24800155 (08/18/2026)",
+        "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
           "228989",
