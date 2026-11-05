@@ -2305,6 +2305,117 @@
     "added_ts": 1793425515
   },
   {
+    "id": "game-2208920",
+    "appid": 2208920,
+    "name": "Assassin's Creed Valhalla",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "installdir": "Assassin's Creed Valhalla",
+    "launch_exes": [
+      "ACValhalla.exe"
+    ],
+    "launch_exe": "ACValhalla.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26142239",
+    "has_metadata": true,
+    "depot_base": 2208921,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2208920/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2208920/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26142239",
+        "branch": "public Assassin’s Creed Valhalla - Title Update 1.8.0 - The Most Requested Update!",
+        "label": "public Assassin’s Creed Valhalla - Title Update 1.8.0 - The Most Requested Update! - Build 26142239 (10/23/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "1716751",
+          "2208921",
+          "2208922",
+          "2208923",
+          "2208924",
+          "2208925",
+          "2208926",
+          "2208927",
+          "2208928",
+          "2208929",
+          "2210143",
+          "2210144",
+          "2210145"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "16968124",
+        "branch": "public Assassin's Creed Valhalla - Title Update 1.7.0 (Windows 11 update 24H2)",
+        "label": "public Assassin's Creed Valhalla - Title Update 1.7.0 (Windows 11 update 24H2) - Build 16968124 (01/11/2025)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228988",
+          "1716751",
+          "2208921",
+          "2208922",
+          "2208923",
+          "2208924",
+          "2208925",
+          "2208926",
+          "2208927",
+          "2208928",
+          "2208929",
+          "2210143",
+          "2210144",
+          "2210145"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793900823
+  },
+  {
     "id": "game-221040",
     "appid": 221040,
     "name": "Resident Evil 6",
