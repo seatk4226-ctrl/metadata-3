@@ -395,6 +395,74 @@
     "added_ts": 1793610308
   },
   {
+    "id": "game-1468810",
+    "appid": 1468810,
+    "name": "Qủy Cốc Bát Hoang",
+    "developer": "鬼谷工作室",
+    "publisher": "鬼谷工作室",
+    "installdir": "鬼谷八荒",
+    "launch_exes": [
+      "guigubahuang.exe"
+    ],
+    "launch_exe": "guigubahuang.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "21758240",
+    "has_metadata": true,
+    "depot_base": 229006,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1468810/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1468810/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21758240",
+        "branch": "public【Version 1.2.113 Update Content】",
+        "label": "public【Version 1.2.113 Update Content】 - Build 21758240 (02/03/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228988",
+          "229006",
+          "1468811"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793984770
+  },
+  {
     "id": "game-1623730",
     "appid": 1623730,
     "name": "Palworld",
