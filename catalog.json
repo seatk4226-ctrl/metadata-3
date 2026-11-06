@@ -5671,6 +5671,75 @@
     "added_ts": 1792572877
   },
   {
+    "id": "game-3499520",
+    "appid": 3499520,
+    "name": "PianoGlow",
+    "developer": "TheAlanski",
+    "publisher": "TheAlanski",
+    "installdir": "PianoGlow",
+    "launch_exes": [
+      "PianoGlow.exe",
+      "PianoGlow.app",
+      "PianoGlow"
+    ],
+    "launch_exe": "PianoGlow.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "26481512",
+    "has_metadata": true,
+    "depot_base": 3499521,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3499520/124c4e2c0d6e249823dc181cd55918445fa80b84/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/3499520/7e975ea5131115579544be2d5b67ac5c06407f03/library_header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "26481512",
+        "branch": "public Release, Sheet Music Annotations + Multiline, Falling Notes Tour, Mic to MIDI",
+        "label": "public Release, Sheet Music Annotations + Multiline, Falling Notes Tour, Mic to MIDI - Build 26481512 (11/06/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "3499521"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1793987597
+  },
+  {
     "id": "game-3500390",
     "appid": 3500390,
     "name": "Mega Man Star Force Legacy Collection",
