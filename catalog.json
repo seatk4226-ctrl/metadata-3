@@ -4380,6 +4380,79 @@
     "added_ts": 1793699397
   },
   {
+    "id": "game-286160",
+    "appid": 286160,
+    "name": "Tabletop Simulator",
+    "developer": "Berserk Games",
+    "publisher": "Berserk Games",
+    "installdir": "Tabletop Simulator",
+    "launch_exes": [
+      "Tabletop Simulator.exe",
+      "Tabletop Simulator.app",
+      "Tabletop Simulator.x86_64"
+    ],
+    "launch_exe": "Tabletop Simulator.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "22252224",
+    "has_metadata": true,
+    "depot_base": 286161,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/286160/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/286160/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "22252224",
+        "branch": "public",
+        "label": "Public - Build 22252224 (03/08/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228984",
+          "228985",
+          "228989",
+          "286161",
+          "286162",
+          "286163"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794158731
+  },
+  {
     "id": "game-289650",
     "appid": 289650,
     "name": "Assassin's Creed Unity",
