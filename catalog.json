@@ -4380,6 +4380,129 @@
     "added_ts": 1793699397
   },
   {
+    "id": "game-289650",
+    "appid": 289650,
+    "name": "Assassin's Creed Unity",
+    "developer": "Ubisoft",
+    "publisher": "Ubisoft",
+    "installdir": "Assassin's Creed Unity",
+    "launch_exes": [
+      "ACU.exe"
+    ],
+    "launch_exe": "ACU.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "21970519",
+    "has_metadata": true,
+    "depot_base": 289651,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/289650/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/289650/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21970519",
+        "branch": "public",
+        "label": "Public - Build 21970519 (02/17/2026)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228990",
+          "289651",
+          "289652",
+          "289653",
+          "324333",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "11559464",
+        "branch": "public",
+        "label": "Public - Build 11559464 (06/26/2023)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228983",
+          "228990",
+          "289651",
+          "289652",
+          "289653",
+          "324333",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "522235",
+        "branch": "public",
+        "label": "Public - Build 522235 (02/11/2015)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228983",
+          "228990",
+          "289651",
+          "289652",
+          "289653",
+          "324333",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794143478
+  },
+  {
     "id": "game-2988580",
     "appid": 2988580,
     "name": "Yakuza 0 Director's Cut",
