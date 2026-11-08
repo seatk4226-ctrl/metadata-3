@@ -4576,6 +4576,81 @@
     "added_ts": 1794143478
   },
   {
+    "id": "game-295270",
+    "appid": 295270,
+    "name": "Football Manager 2015",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "installdir": "Football Manager 2015",
+    "launch_exes": [
+      "fm.exe",
+      "fm.app",
+      "fm"
+    ],
+    "launch_exe": "fm.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "581546",
+    "has_metadata": true,
+    "depot_base": 295272,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/295270/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/295270/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "581546",
+        "branch": "public",
+        "label": "Public - Build 581546 (04/08/2015)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228990",
+          "295271",
+          "295272",
+          "295273",
+          "295274",
+          "295275",
+          "295276",
+          "295277",
+          "295278"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794166202
+  },
+  {
     "id": "game-2988580",
     "appid": 2988580,
     "name": "Yakuza 0 Director's Cut",
