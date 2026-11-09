@@ -1,0 +1,455 @@
+{
+  "_lastChecked": 1794223575,
+  "_history": [
+    {
+      "buildId": "1933078",
+      "branch": "public",
+      "timeUpdated": 1499083594,
+      "firstSeen": 1794223705,
+      "manifests": {
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "482751": {
+          "gid": "3830972438520837521",
+          "size": 6631137750,
+          "download": 2966239808
+        },
+        "482752": {
+          "gid": "4513872800223384918",
+          "size": 155666000,
+          "download": 62784592
+        },
+        "482753": {
+          "gid": "4422414722139606578",
+          "size": 164389945,
+          "download": 117734032
+        },
+        "482754": {
+          "gid": "5773307620352035362",
+          "size": 80788338,
+          "download": 28816752
+        },
+        "482755": {
+          "gid": "5151228133314852733",
+          "size": 72132472,
+          "download": 20593440
+        },
+        "482756": {
+          "gid": "622073663374414079",
+          "size": 164013019,
+          "download": 93577120
+        },
+        "482757": {
+          "gid": "2030914672536820473",
+          "size": 163948327,
+          "download": 93569008
+        },
+        "482758": {
+          "gid": "5461839266181544804",
+          "size": 19,
+          "download": 64
+        }
+      }
+    }
+  ],
+  "_change_number": 32936622,
+  "_missing_token": false,
+  "_sha": "0bc54c377b13cfd6ee0c7df3896678de85827788",
+  "_size": 7935,
+  "appid": "482750",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Sports Interactive",
+        "type": "developer"
+      },
+      "1": {
+        "name": "SEGA",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_25": "1",
+      "category_30": "1"
+    },
+    "clienticns": "e67a6439a9f47319d7f81c7506ec584399a1c8d9",
+    "clienticon": "5016837b4a56848fa5b9029ae6e1dd4ef981c681",
+    "clienttga": "6e25a392a37b1d0da983e648c6cdc24d870eac1b",
+    "community_hub_visible": "1",
+    "community_visible_stats": "1",
+    "gameid": "482750",
+    "genres": {
+      "0": "28",
+      "1": "18"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "icon": "fe1d58ff19cd67aac51d1904af0947ab998c4a37",
+    "languages": {
+      "czech": "1",
+      "danish": "1",
+      "dutch": "1",
+      "english": "1",
+      "french": "1",
+      "greek": "1",
+      "italian": "1",
+      "koreana": "1",
+      "norwegian": "1",
+      "polish": "1",
+      "portuguese": "1",
+      "russian": "1",
+      "schinese": "1",
+      "spanish": "1",
+      "swedish": "1",
+      "tchinese": "1",
+      "turkish": "1"
+    },
+    "linuxclienticon": "9d6ec4aadffc8e874eb8d859aef44373b09fddde",
+    "logo": "48c8bec997fdc9905e5dc761e96abc088eb25875",
+    "logo_small": "48c8bec997fdc9905e5dc761e96abc088eb25875_thumb",
+    "metacritic_name": "Football Manager Touch 2017",
+    "name": "Football Manager Touch 2017",
+    "oslist": "windows,macos,linux",
+    "primary_genre": "18",
+    "releasestate": "released",
+    "review_percentage": "80",
+    "review_score": "8",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_release_date": "1478271600",
+    "store_asset_mtime": "1486031959",
+    "store_screenshot": "ss_b272383b192ab3f04c2b4ca64f75d08142c29f6c.jpg",
+    "store_tags": {
+      "0": "1254552",
+      "1": "701"
+    },
+    "supported_languages": {
+      "czech": {
+        "supported": "true"
+      },
+      "danish": {
+        "supported": "true"
+      },
+      "dutch": {
+        "supported": "true"
+      },
+      "english": {
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "greek": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "norwegian": {
+        "supported": "true"
+      },
+      "polish": {
+        "supported": "true"
+      },
+      "portuguese": {
+        "supported": "true"
+      },
+      "russian": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "swedish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      },
+      "turkish": {
+        "supported": "true"
+      }
+    },
+    "type": "Game",
+    "workshop_visible": "1"
+  },
+  "config": {
+    "contenttype": "3",
+    "installdir": "Football Manager Touch 2017",
+    "launch": {
+      "0": {
+        "config": {
+          "oslist": "windows"
+        },
+        "executable": "fm.exe",
+        "type": "none"
+      },
+      "1": {
+        "config": {
+          "oslist": "macos"
+        },
+        "executable": "fm.app",
+        "type": "none"
+      },
+      "2": {
+        "config": {
+          "oslist": "linux"
+        },
+        "executable": "fm",
+        "type": "none"
+      }
+    },
+    "steamcontrollerconfigfileids": "874208677",
+    "steamcontrollertemplateindex": "1"
+  },
+  "depots": {
+    "228990": {
+      "config": {
+        "oslist": "windows"
+      },
+      "depotfromapp": "228980",
+      "sharedinstall": "1",
+      "manifests": {
+        "public": {
+          "download": "100658080",
+          "gid": "1829726630299308803",
+          "size": "102931551"
+        }
+      }
+    },
+    "482751": {
+      "manifests": {
+        "17.3.2-test": {
+          "download": "2966239808",
+          "gid": "3830972438520837521",
+          "size": "6631137750"
+        },
+        "public": {
+          "download": "2966239808",
+          "gid": "3830972438520837521",
+          "size": "6631137750"
+        },
+        "public-beta": {
+          "download": "2966221120",
+          "gid": "1341104972173959309",
+          "size": "6630569068"
+        }
+      }
+    },
+    "482752": {
+      "config": {
+        "osarch": "32",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "17.3.2-test": {
+          "download": "62784592",
+          "gid": "4513872800223384918",
+          "size": "155666000"
+        },
+        "public": {
+          "download": "62784592",
+          "gid": "4513872800223384918",
+          "size": "155666000"
+        },
+        "public-beta": {
+          "download": "58315712",
+          "gid": "7234144317681652333",
+          "size": "151672400"
+        }
+      }
+    },
+    "482753": {
+      "config": {
+        "osarch": "64",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "17.3.2-test": {
+          "download": "117734032",
+          "gid": "4422414722139606578",
+          "size": "164389945"
+        },
+        "public": {
+          "download": "117734032",
+          "gid": "4422414722139606578",
+          "size": "164389945"
+        },
+        "public-beta": {
+          "download": "124847088",
+          "gid": "1592318271416005420",
+          "size": "170775609"
+        }
+      }
+    },
+    "482754": {
+      "config": {
+        "oslist": "macos"
+      },
+      "manifests": {
+        "17.3.2-test": {
+          "download": "28816752",
+          "gid": "5773307620352035362",
+          "size": "80788338"
+        },
+        "public": {
+          "download": "28816752",
+          "gid": "5773307620352035362",
+          "size": "80788338"
+        },
+        "public-beta": {
+          "download": "28853616",
+          "gid": "7865322840930653226",
+          "size": "80788330"
+        }
+      }
+    },
+    "482755": {
+      "config": {
+        "oslist": "linux"
+      },
+      "manifests": {
+        "17.3.2-test": {
+          "download": "20593440",
+          "gid": "5151228133314852733",
+          "size": "72132472"
+        },
+        "public": {
+          "download": "20593440",
+          "gid": "5151228133314852733",
+          "size": "72132472"
+        },
+        "public-beta": {
+          "download": "54509008",
+          "gid": "8971629905781651731",
+          "size": "72128876"
+        }
+      }
+    },
+    "482756": {
+      "config": {
+        "language": "schinese"
+      },
+      "manifests": {
+        "17.3.2-test": {
+          "download": "93577120",
+          "gid": "622073663374414079",
+          "size": "164013019"
+        },
+        "public": {
+          "download": "93577120",
+          "gid": "622073663374414079",
+          "size": "164013019"
+        }
+      }
+    },
+    "482757": {
+      "config": {
+        "language": "tchinese"
+      },
+      "manifests": {
+        "17.3.2-test": {
+          "download": "93569008",
+          "gid": "2030914672536820473",
+          "size": "163948327"
+        },
+        "public": {
+          "download": "93569008",
+          "gid": "2030914672536820473",
+          "size": "163948327"
+        }
+      }
+    },
+    "482758": {
+      "config": {
+        "language": "tchinese",
+        "osarch": "32",
+        "oslist": "windows"
+      },
+      "manifests": {
+        "17.3.2-test": {
+          "download": "64",
+          "gid": "5461839266181544804",
+          "size": "19"
+        },
+        "public": {
+          "download": "64",
+          "gid": "5461839266181544804",
+          "size": "19"
+        }
+      }
+    },
+    "baselanguages": "english,french,italian,koreana,spanish,schinese,tchinese,russian,portuguese,polish,danish,dutch,norwegian,swedish,czech,turkish,greek",
+    "branches": {
+      "17.3.2-test": {
+        "buildid": "1933078",
+        "timeupdated": "1499444914"
+      },
+      "public": {
+        "buildid": "1933078",
+        "timeupdated": "1499353843"
+      },
+      "public-beta": {
+        "buildid": "1698838",
+        "timeupdated": "1490720910"
+      }
+    },
+    "privatebranches": "1",
+    "workshopdepot": "482750"
+  },
+  "extended": {
+    "allowmicrotxnfromrestrictedcountries": "0",
+    "developer": "Sports Interactive",
+    "homepage": "http://www.footballmanager.com/",
+    "listofdlc": "489840,489841,489842,489843,489844,489845,489846,489847,489848,489849,489850,489851,489852,514683,514684,514685",
+    "microtxnrestrictedcountries": "RU,BY",
+    "publisher": "SEGA"
+  },
+  "ufs": {
+    "maxnumfiles": "1000",
+    "quota": "1000000000",
+    "rootoverrides": {
+      "0": {
+        "addpath": "",
+        "os": "MacOS",
+        "oscompare": "=",
+        "root": "WinAppDataLocal",
+        "useinstead": "MacAppSupport"
+      },
+      "1": {
+        "addpath": "",
+        "os": "Linux",
+        "oscompare": "=",
+        "root": "WinAppDataLocal",
+        "useinstead": "LinuxXdgDataHome"
+      }
+    },
+    "savefiles": {
+      "0": {
+        "path": "Sports Interactive/Football Manager Touch 2017/cloud/games",
+        "pattern": "*.fmt",
+        "root": "WinAppDataLocal"
+      },
+      "1": {
+        "path": "Sports Interactive/Football Manager Touch 2017/cloud/games",
+        "pattern": "*.fmv",
+        "root": "WinAppDataLocal"
+      }
+    }
+  }
+}
