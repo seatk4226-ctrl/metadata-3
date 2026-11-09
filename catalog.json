@@ -2711,6 +2711,74 @@
     "added_ts": 1792577834
   },
   {
+    "id": "game-2252570",
+    "appid": 2252570,
+    "name": "Football Manager 2024",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "installdir": "Football Manager 2024",
+    "launch_exes": [
+      "fm.exe",
+      "fm.app"
+    ],
+    "launch_exe": "fm.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "18129188",
+    "has_metadata": true,
+    "depot_base": 2252572,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2252570/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2252570/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "18129188",
+        "branch": "public",
+        "label": "Public - Build 18129188 (04/16/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "2252571",
+          "2252572",
+          "2252573"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794246021
+  },
+  {
     "id": "game-2286770",
     "appid": 2286770,
     "name": "Paper Bride 4 Bound Love",
