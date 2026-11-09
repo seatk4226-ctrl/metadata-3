@@ -1,5 +1,73 @@
 [
   {
+    "id": "game-1100600",
+    "appid": 1100600,
+    "name": "Football Manager 2020",
+    "developer": "Sports Interactive",
+    "publisher": "SEGA",
+    "installdir": "Football Manager 2020",
+    "launch_exes": [
+      "fm.exe",
+      "fm.app"
+    ],
+    "launch_exe": "fm.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "4822920",
+    "has_metadata": true,
+    "depot_base": 1100602,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1100600/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1100600/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "4822920",
+        "branch": "public Football Manager 2020 Update 20.4.1 Out Now!",
+        "label": "public Football Manager 2020 Update 20.4.1 Out Now! - Build 4822920 (03/26/2020)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "1100601",
+          "1100602",
+          "1100603"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794243252
+  },
+  {
     "id": "game-1235140",
     "appid": 1235140,
     "name": "Yakuza: Like a Dragon",
