@@ -6810,6 +6810,159 @@
     "added_ts": 1792376004
   },
   {
+    "id": "game-368500",
+    "appid": 368500,
+    "name": "Assassin's Creed Syndicate",
+    "developer": "Ubisoft Quebec, in collaboration with Ubisoft Annecy, Bucharest, Kiev, Montreal, Montpellier, Shanghai, Singapore, Sofia, Toronto studios",
+    "publisher": "Ubisoft",
+    "installdir": "Assassin's Creed Syndicate",
+    "launch_exes": [
+      "ACS.exe"
+    ],
+    "launch_exe": "ACS.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "21071986",
+    "has_metadata": true,
+    "depot_base": 368501,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/368500/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/368500/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "21071986",
+        "branch": "public",
+        "label": "Public - Build 21071986 (12/05/2025)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228983",
+          "228984",
+          "228990",
+          "368501",
+          "368502",
+          "368503",
+          "368504",
+          "368505",
+          "405080",
+          "407470",
+          "407471",
+          "407472",
+          "407473",
+          "407475",
+          "407476",
+          "407477",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "14022255",
+        "branch": "public",
+        "label": "Public - Build 14022255 (04/11/2024)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228983",
+          "228984",
+          "228990",
+          "368501",
+          "368502",
+          "368503",
+          "368504",
+          "368505",
+          "405080",
+          "407470",
+          "407471",
+          "407472",
+          "407473",
+          "407475",
+          "407476",
+          "407477",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
+        "id": "1288682",
+        "branch": "public",
+        "label": "Public - Build 1288682 (08/18/2016)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228983",
+          "228984",
+          "228990",
+          "368501",
+          "368502",
+          "368503",
+          "368504",
+          "368505",
+          "405080",
+          "407470",
+          "407471",
+          "407472",
+          "407473",
+          "407475",
+          "407476",
+          "407477",
+          "1716751"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794315152
+  },
+  {
     "id": "game-371660",
     "appid": 371660,
     "name": "Far Cry Primal",
