@@ -2,8 +2,31 @@
   "_lastChecked": 1792371637,
   "_history": [
     {
+      "buildId": "26558605",
+      "branch": "public 🍜 Hotfix Notice (v0.1.75.20266)",
+      "timeUpdated": 1794290797,
+      "firstSeen": 1794408737,
+      "manifests": {
+        "228989": {
+          "gid": "5753583882400741046",
+          "size": 25674515,
+          "download": 25108528
+        },
+        "228990": {
+          "gid": "1829726630299308803",
+          "size": 102931551,
+          "download": 100658080
+        },
+        "4968641": {
+          "gid": "2809046750020318159",
+          "size": 5239544553,
+          "download": 3833999408
+        }
+      }
+    },
+    {
       "buildId": "25978872",
-      "branch": "public",
+      "branch": "public 🍜Update Roadmap Revealed! 100,000 Copies Sold!",
       "timeUpdated": 1792129893,
       "firstSeen": 1793022419,
       "manifests": {
