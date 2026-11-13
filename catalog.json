@@ -6010,6 +6010,325 @@
     "added_ts": 1792426983
   },
   {
+    "id": "game-33230",
+    "appid": 33230,
+    "name": "Assassin's Creed II",
+    "developer": "Ubisoft Montreal",
+    "publisher": "Ubisoft",
+    "installdir": "Assassin's Creed 2",
+    "launch_exes": [
+      "AssassinsCreedIIGame.exe",
+      "Assassin's Creed 2.app"
+    ],
+    "launch_exe": "AssassinsCreedIIGame.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "1843459",
+    "has_metadata": true,
+    "depot_base": 33231,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/33230/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/33230/header.jpg",
+    "platforms": [
+      "Windows (64-bit)",
+      "Windows (32-bit)"
+    ],
+    "versions": [
+      {
+        "id": "1843459",
+        "branch": "public",
+        "label": "Public - Build 1843459 (05/25/2017)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "33231",
+          "33232",
+          "33233",
+          "33234",
+          "33235",
+          "33236",
+          "33237",
+          "33238",
+          "33239",
+          "33362",
+          "33363",
+          "33364",
+          "33365",
+          "33366",
+          "33367",
+          "33368",
+          "33369",
+          "48171",
+          "48172",
+          "588820",
+          "588821",
+          "588822"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          },
+          {
+            "id": 33232,
+            "key": "lang:french",
+            "lang": "french",
+            "label": "Français (French)",
+            "source": "depot"
+          },
+          {
+            "id": 33233,
+            "key": "lang:german",
+            "lang": "german",
+            "label": "Deutsch (German)",
+            "source": "depot"
+          },
+          {
+            "id": 33234,
+            "key": "lang:italian",
+            "lang": "italian",
+            "label": "Italiano (Italian)",
+            "source": "depot"
+          },
+          {
+            "id": 33235,
+            "key": "lang:spanish",
+            "lang": "spanish",
+            "label": "Español (Spanish)",
+            "source": "depot"
+          },
+          {
+            "id": 33236,
+            "key": "lang:danish",
+            "lang": "danish",
+            "label": "Danish",
+            "source": "depot"
+          },
+          {
+            "id": 33237,
+            "key": "lang:dutch",
+            "lang": "dutch",
+            "label": "Nederlands (Dutch)",
+            "source": "depot"
+          },
+          {
+            "id": 33238,
+            "key": "lang:swedish",
+            "lang": "swedish",
+            "label": "Swedish",
+            "source": "depot"
+          },
+          {
+            "id": 33239,
+            "key": "lang:norwegian",
+            "lang": "norwegian",
+            "label": "Norwegian",
+            "source": "depot"
+          },
+          {
+            "id": 588820,
+            "key": "lang:koreana",
+            "lang": "koreana",
+            "label": "한국어 (Korean)",
+            "source": "depot"
+          },
+          {
+            "id": 588821,
+            "key": "lang:schinese",
+            "lang": "schinese",
+            "label": "简体中文 (Simplified Chinese)",
+            "source": "depot"
+          },
+          {
+            "id": 588822,
+            "key": "lang:tchinese",
+            "lang": "tchinese",
+            "label": "繁體中文 (Traditional Chinese)",
+            "source": "depot"
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 33232,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 33233,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 33234,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 33235,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 33236,
+        "key": "lang:danish",
+        "lang": "danish",
+        "label": "Danish",
+        "source": "depot"
+      },
+      {
+        "id": 33237,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 33238,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 33239,
+        "key": "lang:norwegian",
+        "lang": "norwegian",
+        "label": "Norwegian",
+        "source": "depot"
+      },
+      {
+        "id": 588820,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 588821,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 588822,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 0,
+        "key": "lang:default",
+        "lang": "default",
+        "label": "Default",
+        "source": "base",
+        "is_default": true
+      },
+      {
+        "id": 33232,
+        "key": "lang:french",
+        "lang": "french",
+        "label": "Français (French)",
+        "source": "depot"
+      },
+      {
+        "id": 33233,
+        "key": "lang:german",
+        "lang": "german",
+        "label": "Deutsch (German)",
+        "source": "depot"
+      },
+      {
+        "id": 33234,
+        "key": "lang:italian",
+        "lang": "italian",
+        "label": "Italiano (Italian)",
+        "source": "depot"
+      },
+      {
+        "id": 33235,
+        "key": "lang:spanish",
+        "lang": "spanish",
+        "label": "Español (Spanish)",
+        "source": "depot"
+      },
+      {
+        "id": 33236,
+        "key": "lang:danish",
+        "lang": "danish",
+        "label": "Danish",
+        "source": "depot"
+      },
+      {
+        "id": 33237,
+        "key": "lang:dutch",
+        "lang": "dutch",
+        "label": "Nederlands (Dutch)",
+        "source": "depot"
+      },
+      {
+        "id": 33238,
+        "key": "lang:swedish",
+        "lang": "swedish",
+        "label": "Swedish",
+        "source": "depot"
+      },
+      {
+        "id": 33239,
+        "key": "lang:norwegian",
+        "lang": "norwegian",
+        "label": "Norwegian",
+        "source": "depot"
+      },
+      {
+        "id": 588820,
+        "key": "lang:koreana",
+        "lang": "koreana",
+        "label": "한국어 (Korean)",
+        "source": "depot"
+      },
+      {
+        "id": 588821,
+        "key": "lang:schinese",
+        "lang": "schinese",
+        "label": "简体中文 (Simplified Chinese)",
+        "source": "depot"
+      },
+      {
+        "id": 588822,
+        "key": "lang:tchinese",
+        "lang": "tchinese",
+        "label": "繁體中文 (Traditional Chinese)",
+        "source": "depot"
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1794559317
+  },
+  {
     "id": "game-335300",
     "appid": 335300,
     "name": "DARK SOULS™ II: Scholar of the First Sin",
