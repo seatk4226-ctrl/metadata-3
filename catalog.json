@@ -6,6 +6,18 @@
     "developer": "Larian Studios",
     "publisher": "Larian Studios",
     "installdir": "Baldurs Gate 3",
+    "launch": {
+      "options": [
+        {
+          "name": "Chơi với Vulkan",
+          "executable": "bin\\bg3.exe"
+        },
+        {
+          "name": "Chơi với DirectX 11",
+          "executable": "bin\\bg3_dx11.exe"
+        }
+      ]
+    },
     "launch_exes": [
       "Launcher\\LariLauncher.exe",
       "LariLauncher.exe",

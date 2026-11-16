@@ -367,6 +367,8 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
     installdir = config.get("installdir", common.get("name", ""))
 
     launch_cfg = config.get("launch", {})
+    custom_launch = data.get("launch")
+    custom_options = custom_launch.get("options") if isinstance(custom_launch, dict) else None
     exes = []
     for e in launch_cfg.values():
         exe = e.get("executable", "")
@@ -383,6 +385,7 @@ def _parse_game_info_from_json(data: dict, appid_str: str, repo_dir: Path) -> di
         "developer": dev,
         "publisher": pub,
         "installdir": installdir,
+        **({"launch": {"options": custom_options}} if isinstance(custom_options, list) and custom_options else {}),
         "launch_exes": exes,
         "launch_exe": (data.get("launch", {}) or {}).get("exe") or (exes[0] if exes else ""),
         "launch_exe_after_fix": (data.get("launch", {}) or {}).get("exe_after_fix") or "",

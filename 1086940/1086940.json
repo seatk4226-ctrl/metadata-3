@@ -635,6 +635,18 @@
     },
     "type": "Game"
   },
+  "launch": {
+    "options": [
+      {
+        "name": "Chơi với Vulkan",
+        "executable": "bin\\bg3.exe"
+      },
+      {
+        "name": "Chơi với DirectX 11",
+        "executable": "bin\\bg3_dx11.exe"
+      }
+    ]
+  },
   "config": {
     "app_mappings": {
       "0": {
