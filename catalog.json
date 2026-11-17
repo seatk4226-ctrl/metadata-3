@@ -720,7 +720,7 @@
     ],
     "launch_exe": "DEVOUR.exe",
     "launch_exe_after_fix": "",
-    "build_id": "25725702",
+    "build_id": "26455909",
     "has_metadata": true,
     "depot_base": 1274571,
     "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/1274570/9042301622369e9b82f54d49b8cc0d058fbc8006/library_capsule.jpg",
@@ -730,9 +730,9 @@
     ],
     "versions": [
       {
-        "id": "25725702",
+        "id": "26455909",
         "branch": "public",
-        "label": "Public - Build 25725702 (10/05/2026)",
+        "label": "Public - Build 26455909 (11/05/2026)",
         "is_ready": true,
         "is_recommended": true,
         "manifest_depots": [
@@ -753,9 +753,32 @@
         ]
       },
       {
+        "id": "25725702",
+        "branch": "public Halloween Hotfix v6.0.34-h1",
+        "label": "public Halloween Hotfix v6.0.34-h1 - Build 25725702 (10/05/2026)",
+        "is_ready": true,
+        "is_recommended": false,
+        "manifest_depots": [
+          "228988",
+          "1274571",
+          "1274573",
+          "1966630"
+        ],
+        "languages": [
+          {
+            "id": 0,
+            "key": "lang:default",
+            "lang": "default",
+            "label": "Default",
+            "source": "base",
+            "is_default": true
+          }
+        ]
+      },
+      {
         "id": "21047106",
-        "branch": "public",
-        "label": "Public - Build 21047106 (12/04/2025)",
+        "branch": "public Christmas Event Begins - Unique unlockables & more!",
+        "label": "public Christmas Event Begins - Unique unlockables & more! - Build 21047106 (12/04/2025)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [
@@ -777,8 +800,8 @@
       },
       {
         "id": "20472887",
-        "branch": "public",
-        "label": "Public - Build 20472887 (10/21/2025)",
+        "branch": "public v6.0.22",
+        "label": "public v6.0.22 - Build 20472887 (10/21/2025)",
         "is_ready": true,
         "is_recommended": false,
         "manifest_depots": [

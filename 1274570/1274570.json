@@ -2,8 +2,36 @@
   "_lastChecked": 1789816896,
   "_history": [
     {
-      "buildId": "25725702",
+      "buildId": "26455909",
       "branch": "public",
+      "timeUpdated": 1793875974,
+      "firstSeen": 1794900331,
+      "manifests": {
+        "228988": {
+          "gid": "6645201662696499616",
+          "size": 29212173,
+          "download": 22411856
+        },
+        "1274571": {
+          "gid": "6637838747947753859",
+          "size": 15064164507,
+          "download": 8617496560
+        },
+        "1274573": {
+          "gid": "1317128999362500471",
+          "size": 15248227952,
+          "download": 8688039408
+        },
+        "1966630": {
+          "gid": "7348617984918166394",
+          "size": 95673690,
+          "download": 92388272
+        }
+      }
+    },
+    {
+      "buildId": "25725702",
+      "branch": "public Halloween Hotfix v6.0.34-h1",
       "timeUpdated": 1791198922,
       "firstSeen": 1792738944,
       "manifests": {
@@ -31,7 +59,7 @@
     },
     {
       "buildId": "21047106",
-      "branch": "public",
+      "branch": "public Christmas Event Begins - Unique unlockables & more!",
       "timeUpdated": 1764812302,
       "firstSeen": 1792769268,
       "manifests": {
@@ -59,7 +87,7 @@
     },
     {
       "buildId": "20472887",
-      "branch": "public",
+      "branch": "public v6.0.22",
       "timeUpdated": 1761005386,
       "firstSeen": 1792776732,
       "manifests": {
