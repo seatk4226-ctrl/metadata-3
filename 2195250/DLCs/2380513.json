@@ -1,0 +1,28 @@
+{
+  "_change_number": 23213071,
+  "_missing_token": false,
+  "_sha": "3a815fdc0c758e5558c84b5c82bc392551be5c86",
+  "_size": 531,
+  "appid": "2380513",
+  "common": {
+    "associations": {},
+    "category": {},
+    "exfgls": "9",
+    "gameid": "2380513",
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "name": "EA Sports FC 24 Ultimate Edition - Key",
+    "parent": "2195250",
+    "primary_genre": "0",
+    "releasestate": "released",
+    "store_asset_mtime": "1695912359",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2195250",
+    "homepage": "https://store.steampowered.com/app/2195250",
+    "mustownapptopurchase": "2195250"
+  }
+}

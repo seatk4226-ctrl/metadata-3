@@ -1,0 +1,18 @@
+{
+  "_change_number": 33539742,
+  "_missing_token": true,
+  "_sha": "0784bcc318b4f85395d23420d293b2b3d9432927",
+  "_size": 278,
+  "appid": "446130",
+  "common": {
+    "associations": {},
+    "exfgls": "9",
+    "gameid": "446130",
+    "name": "Far Cry Primal - WW Uplay Activation",
+    "parent": "371660",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

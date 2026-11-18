@@ -1,0 +1,146 @@
+{
+  "_change_number": 37810774,
+  "_missing_token": false,
+  "_sha": "9928c0d7cb65e5224841270b2d399ee8dfec42fd",
+  "_size": 2981,
+  "appid": "2741990",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Bandai Namco Studios Inc.",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Bandai Namco Entertainment",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "TEKKEN",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_29": "1",
+      "category_33": "1",
+      "category_36": "1",
+      "category_37": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_62": "1"
+    },
+    "controller_support": "partial",
+    "gameid": "2741990",
+    "genres": {
+      "0": "1"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "name": "TEKKEN 8 - Ultimate Pack",
+    "name_localized": {
+      "brazilian": "TEKKEN 8 - Pacote de atualização da Ultimate Edition",
+      "japanese": "鉄拳8 - Ultimate Pack",
+      "koreana": "철권 8 - 얼티밋 팩",
+      "latam": "TEKKEN 8 - Paquete de actualización de Ultimate Edition",
+      "schinese": "铁拳8 - Ultimate Pack",
+      "tchinese": "鐵拳8 - Ultimate Pack"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1778820",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "14",
+    "review_score": "2",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_release_date": "1706223937",
+    "store_asset_mtime": "1705974201",
+    "store_screenshot": "ss_43e0b04bcc0141289cc05673b04ca9fc30194640.jpg",
+    "store_tags": {
+      "0": "19"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "thai": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Bandai Namco Studios Inc.",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "1778820",
+    "homepage": "https://tk8.tekken-official.jp/",
+    "mustownapptopurchase": "1778820",
+    "publisher": "Bandai Namco Entertainment"
+  }
+}

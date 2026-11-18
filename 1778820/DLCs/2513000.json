@@ -1,0 +1,33 @@
+{
+  "_change_number": 34609466,
+  "_missing_token": false,
+  "_sha": "108d3b5b62f8666a5bd2b06cb2cd8e17f4c43282",
+  "_size": 731,
+  "appid": "2513000",
+  "common": {
+    "associations": {},
+    "gameid": "2513000",
+    "name": "TEKKEN 8 - Avatar Skin: Kinjin",
+    "name_localized": {
+      "japanese": "鉄拳8 アバタースキン「金人」",
+      "koreana": "철권 8 아바타 스킨 「킨진」",
+      "schinese": "铁拳8 人像外观「金人」",
+      "tchinese": "鐵拳8 人像外觀「金人」",
+      "thai": "TEKKEN 8: สกินอวาตาร์ \"คินจิน\""
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1778820",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1778820",
+    "mustownapptopurchase": "1778820"
+  }
+}

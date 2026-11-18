@@ -1,0 +1,22 @@
+{
+  "_change_number": 33539742,
+  "_missing_token": true,
+  "_sha": "d11f883a2954faabc03f10e420429c85fb7dc231",
+  "_size": 323,
+  "appid": "456310",
+  "common": {
+    "associations": {},
+    "exfgls": "9",
+    "gameid": "456310",
+    "name": "Far Cry Primal - HD Texture Pack",
+    "parent": "371660",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "store_tags": {
+      "0": "19",
+      "1": "21"
+    },
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

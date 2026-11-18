@@ -1,0 +1,37 @@
+{
+  "_change_number": 38191659,
+  "_missing_token": false,
+  "_sha": "4549d5253651baa1e85539560da02ec60c7b73c1",
+  "_size": 1259,
+  "appid": "3603460",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3603460",
+    "name": "Call of Duty®: Modern Warfare® III - Multiplayer",
+    "name_localized": {
+      "brazilian": "Call of Duty®: Modern Warfare® III - Multijogador",
+      "french": "Call of Duty®: Modern Warfare® III - Multijoueur",
+      "german": "Call of Duty®: Modern Warfare® III - Mehrspieler",
+      "italian": "Call of Duty®: Modern Warfare® III - Mehrspieler",
+      "japanese": "Call of Duty®: Modern Warfare® III - マルチプレイヤー",
+      "koreana": "Call of Duty®: Modern Warfare® III - 멀티플레이어",
+      "latam": "Call of Duty®: Modern Warfare® III - Multijugador",
+      "polish": "Call of Duty®: Modern Warfare® III - Tryb wieloosobowy",
+      "russian": "Call of Duty®: Modern Warfare® III - Сетевая игра",
+      "schinese": "Call of Duty®: Modern Warfare® III - 多人游戏",
+      "spanish": "Call of Duty®: Modern Warfare® III - Multijugador",
+      "tchinese": "Call of Duty®: Modern Warfare® III - 多人遊戲"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3595270",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3595270",
+    "mustownapptopurchase": "3595270"
+  }
+}

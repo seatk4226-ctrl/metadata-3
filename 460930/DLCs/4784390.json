@@ -1,0 +1,26 @@
+{
+  "_change_number": 37949293,
+  "_missing_token": false,
+  "_sha": "39ab4428066926eef58bb588c2309f976d1ad91d",
+  "_size": 526,
+  "appid": "4784390",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4784390",
+    "name": "Tom Clancy's Ghost Recon Wildlands: Cold Eye Pack Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "460930",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "460930",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "460930",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

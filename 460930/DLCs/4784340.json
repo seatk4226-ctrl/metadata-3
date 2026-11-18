@@ -1,0 +1,24 @@
+{
+  "_change_number": 37071670,
+  "_missing_token": false,
+  "_sha": "8dee026a53331e7eebd3bbccb3260ff98fe0c5f9",
+  "_size": 501,
+  "appid": "4784340",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4784340",
+    "name": "Tom Clancy's Ghost Recon Wildlands - Definitive Edition Ubisoft Activation -WW",
+    "parent": "460930",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "460930",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "460930",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

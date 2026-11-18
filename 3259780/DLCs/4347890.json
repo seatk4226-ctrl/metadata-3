@@ -1,0 +1,35 @@
+{
+  "_change_number": 40135144,
+  "_missing_token": false,
+  "_sha": "7692fa47c0ee7f177f02d142fcd36422707f6891",
+  "_size": 1223,
+  "appid": "4347890",
+  "common": {
+    "gameid": "4347890",
+    "name": "FINAL FANTASY RESONANCE - Magitek Airship & Squire Starter Pack",
+    "name_localized": {
+      "english": "FINAL FANTASY RESONANCE - Magitek Airship & Squire Starter Pack",
+      "french": "FINAL FANTASY RESONANCE - Aéronef magitech et pack de démarrage d’écuyer",
+      "german": "FINAL FANTASY RESONANCE - Starterpaket Magitek-Luftschiff & Knappe",
+      "japanese": "ファイナルファンタジー レゾナンス - 魔導船＆かけだし騎士の応援パック",
+      "koreana": "FINAL FANTASY RESONANCE - 마도선&신참 기사의 응원 팩",
+      "latam": "FINAL FANTASY RESONANCE - Nave magitec y paquete inicial del escudero",
+      "schinese": "FINAL FANTASY RESONANCE - 魔导船＆见习骑士应援包",
+      "spanish": "FINAL FANTASY RESONANCE - Nave magitec y paquete inicial del escudero",
+      "tchinese": "FINAL FANTASY RESONANCE - 魔導船＆見習騎士應援包"
+    },
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3259780",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3259780",
+    "mustownapptopurchase": "3259780"
+  }
+}

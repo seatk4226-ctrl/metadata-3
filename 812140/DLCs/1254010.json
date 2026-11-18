@@ -1,0 +1,18 @@
+{
+  "_change_number": 33545753,
+  "_missing_token": true,
+  "_sha": "8085f54fdb9883beaa71f0c490257a17da23972b",
+  "_size": 290,
+  "appid": "1254010",
+  "common": {
+    "associations": {},
+    "exfgls": "9",
+    "gameid": "1254010",
+    "name": "Assassin's Creed Odyssey - Full Game ownership",
+    "parent": "812140",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

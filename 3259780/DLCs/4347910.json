@@ -1,0 +1,125 @@
+{
+  "_change_number": 40957205,
+  "_missing_token": false,
+  "_sha": "8ae59b08ade8b7c3b9e0bf476908509bef23ea9d",
+  "_size": 2596,
+  "appid": "4347910",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Square Enix",
+        "type": "developer"
+      },
+      "1": {
+        "name": "LANCARSE Ltd.",
+        "type": "developer"
+      },
+      "2": {
+        "name": "Square Enix",
+        "type": "publisher"
+      },
+      "3": {
+        "name": "Final Fantasy",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_62": "1"
+    },
+    "gameid": "4347910",
+    "genres": {
+      "0": "3"
+    },
+    "header_image": {
+      "english": "4b013fb3e6a270c347bd252caa244c526a861ad5/header.jpg",
+      "japanese": "220d4919fcbec0710607d13e86703689f977f230/header_japanese.jpg"
+    },
+    "name": "FINAL FANTASY RESONANCE Digital Deluxe Upgrade",
+    "name_localized": {
+      "english": "FINAL FANTASY RESONANCE Digital Deluxe Upgrade",
+      "japanese": "ファイナルファンタジー レゾナンス Digital Deluxe Upgrade"
+    },
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3259780",
+    "primary_genre": "3",
+    "releasestate": "released",
+    "review_percentage": "80",
+    "review_score": "7",
+    "small_capsule": {
+      "english": "62cad25d272ec3536cc43bbed089ca039843f55a/capsule_231x87.jpg",
+      "japanese": "de6432ba803f8a0a39dd13a1e9296c0f218236e4/capsule_231x87_japanese.jpg"
+    },
+    "steam_release_date": "1792684882",
+    "store_asset_mtime": "1782984212",
+    "store_screenshot": "7d9476b310a568cf7d7bf91284d313ade2446cdf/ss_7d9476b310a568cf7d7bf91284d313ade2446cdf.jpg",
+    "store_tags": {
+      "0": "122",
+      "1": "3964",
+      "10": "3834",
+      "11": "3993",
+      "12": "4057",
+      "13": "4172",
+      "14": "4182",
+      "15": "4791",
+      "16": "7481",
+      "17": "10695",
+      "18": "21725",
+      "2": "4325",
+      "3": "4434",
+      "4": "4975",
+      "5": "1684",
+      "6": "1742",
+      "7": "5608",
+      "8": "21",
+      "9": "1677"
+    },
+    "supported_languages": {
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Square Enix",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3259780",
+    "mustownapptopurchase": "3259780",
+    "publisher": "Square Enix"
+  }
+}

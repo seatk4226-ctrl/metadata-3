@@ -1,0 +1,35 @@
+{
+  "_change_number": 40135149,
+  "_missing_token": false,
+  "_sha": "489811c0442580f8112881e9904df42c5b09f3a9",
+  "_size": 1094,
+  "appid": "4347900",
+  "common": {
+    "gameid": "4347900",
+    "name": "FINAL FANTASY RESONANCE - Squire Kickstart Pack",
+    "name_localized": {
+      "english": "FINAL FANTASY RESONANCE - Squire Kickstart Pack",
+      "french": "FINAL FANTASY RESONANCE - Pack de démarrage d’écuyer",
+      "german": "FINAL FANTASY RESONANCE - Kickstartpaket Knappe",
+      "japanese": "ファイナルファンタジー レゾナンス - かけだし騎士のスタートダッシュパック",
+      "koreana": "FINAL FANTASY RESONANCE - 신참 기사의 출발 가속 팩",
+      "latam": "FINAL FANTASY RESONANCE - paquete de escudero",
+      "schinese": "FINAL FANTASY RESONANCE - 见习骑士起跑冲刺包",
+      "spanish": "FINAL FANTASY RESONANCE - paquete de escudero",
+      "tchinese": "FINAL FANTASY RESONANCE - 見習騎士起步衝刺包"
+    },
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3259780",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3259780",
+    "mustownapptopurchase": "3259780"
+  }
+}

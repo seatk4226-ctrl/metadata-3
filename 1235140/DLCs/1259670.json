@@ -1,0 +1,17 @@
+{
+  "_change_number": 32936622,
+  "_missing_token": true,
+  "_sha": "73487ee2831840ca9189f94374a3c75e8c9c3508",
+  "_size": 272,
+  "appid": "1259670",
+  "common": {
+    "associations": {},
+    "gameid": "1259670",
+    "name": "Yakuza: Like a Dragon - Crafting Mat Bundle",
+    "parent": "1235140",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

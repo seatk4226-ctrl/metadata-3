@@ -1,0 +1,19 @@
+{
+  "_change_number": 34678701,
+  "_missing_token": false,
+  "_sha": "56ebf3b2becdfb53c2484f9a7c5f8e3926f1421e",
+  "_size": 317,
+  "appid": "3669120",
+  "common": {
+    "gameid": "3669120",
+    "name": "DEATH STRANDING 2: ON THE BEACH - Digital Deluxe Content",
+    "parent": "3280350",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3280350",
+    "mustownapptopurchase": "3280350"
+  }
+}

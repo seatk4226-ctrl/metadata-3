@@ -1,0 +1,21 @@
+{
+  "_change_number": 38155515,
+  "_missing_token": true,
+  "_sha": "37b036884286ab44cd0db0cfbd23e872041fda8c",
+  "_size": 380,
+  "appid": "468738",
+  "common": {
+    "associations": {},
+    "gameid": "468738",
+    "name": "Tabletop Simulator - Cosmic Dominion",
+    "osarch": "64",
+    "osextended": "macos64,macosapplesilicon",
+    "oslist": "windows,macos,linux",
+    "parent": "286160",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

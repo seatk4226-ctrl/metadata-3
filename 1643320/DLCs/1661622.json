@@ -1,0 +1,151 @@
+{
+  "_change_number": 34675914,
+  "_missing_token": false,
+  "_sha": "976f6e5fac9bf037bd41e3cace96880d873386b5",
+  "_size": 2924,
+  "appid": "1661622",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "GSC Game World",
+        "type": "developer"
+      },
+      "1": {
+        "name": "GSC Game World",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "S.T.A.L.K.E.R.",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_61": "1"
+    },
+    "clienticon": "6aacca9d730e1bd0471f86a2a6524c726dd0d7a6",
+    "clienttga": "2321b316d1783893ad0b2f632895c5bc0089adfd",
+    "controller_support": "full",
+    "controllertagwizard": "1",
+    "gameid": "1661622",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "3"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "icon": "d76395a6974f2aa5622c3e270a5c45192a0f3650",
+    "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Season Pass",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1643320",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "season_pass": "1",
+    "small_capsule": {
+      "english": "cb1d46ea2e9537005201053df61e6adee1ab642b/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1732118400",
+    "store_asset_mtime": "1729512737",
+    "store_screenshot": "ss_7cbd99ea780e5ad8291824b57bebfc3c0942ee2c.jpg",
+    "store_tags": {
+      "0": "1695",
+      "1": "1663",
+      "10": "1742",
+      "11": "6869",
+      "12": "3854",
+      "13": "3839",
+      "14": "3942",
+      "15": "9204",
+      "16": "6971",
+      "17": "6426",
+      "18": "4175",
+      "19": "4145",
+      "2": "3835",
+      "3": "1662",
+      "4": "122",
+      "5": "4166",
+      "6": "1774",
+      "7": "4182",
+      "8": "19",
+      "9": "3834"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "serbian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "ukrainian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "developer": "GSC Game World",
+    "dlcforappid": "1643320",
+    "homepage": "https://www.stalker2.com/",
+    "mustownapptopurchase": "1643320",
+    "publisher": "GSC Game World"
+  }
+}

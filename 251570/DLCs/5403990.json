@@ -1,0 +1,141 @@
+{
+  "_change_number": 40312901,
+  "_missing_token": false,
+  "_sha": "5028ce7e6eaec74d8c4c74d2b330e4d021ff0a88",
+  "_size": 3065,
+  "appid": "5403990",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "The Fun Pimps",
+        "type": "developer"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_17": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_42": "1",
+      "category_43": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_47": "1",
+      "category_48": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "controller_support": "full",
+    "gameid": "5403990",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "23",
+      "3": "3",
+      "4": "28",
+      "5": "2"
+    },
+    "header_image": {
+      "english": "d568cd1e05ab0104769e6b8b168300cf754a9393/header.jpg"
+    },
+    "name": "The Wraith Witch Armor Set",
+    "name_localized": {
+      "brazilian": "Conjunto de Armadura da Bruxa Espectral",
+      "english": "The Wraith Witch Armor Set",
+      "french": "Ensemble d'armure Sorcière spectrale",
+      "german": "Rüstungsset der Geisterhexe",
+      "italian": "Set armatura della Strega Spettrale",
+      "japanese": "レイス・ウィッチ・アーマーセット",
+      "koreana": "망령 마녀 방어구 세트",
+      "latam": "Conjunto de armadura de la Bruja Espectral",
+      "polish": "Zestaw pancerza upiornej wiedźmy",
+      "russian": "Комплект брони «Ведьма-видение»",
+      "schinese": "幽灵女巫护甲套装",
+      "tchinese": "幽靈魔女護甲套裝",
+      "turkish": "Hayalet Cadı Zırh Seti"
+    },
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "macos64",
+    "oslist": "windows,macos,linux",
+    "parent": "251570",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "b03c73f0a0ef6933f349ac7d6ee7517be94c225e/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1793034110",
+    "store_asset_mtime": "1793132542",
+    "store_screenshot": "2a52137e91907c7d786dd5b25b9a4e3124eafce5/ss_2a52137e91907c7d786dd5b25b9a4e3124eafce5.jpg",
+    "store_tags": {
+      "0": "9",
+      "1": "19",
+      "2": "21",
+      "3": "122",
+      "4": "492",
+      "5": "599"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "supported": "true"
+      },
+      "english": {
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "latam": {
+        "supported": "true"
+      },
+      "polish": {
+        "supported": "true"
+      },
+      "russian": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      },
+      "turkish": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "The Fun Pimps",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "251570",
+    "homepage": "http://www.7daystodie.com",
+    "mustownapptopurchase": "251570"
+  }
+}

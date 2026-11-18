@@ -1,0 +1,18 @@
+{
+  "_change_number": 33545495,
+  "_missing_token": true,
+  "_sha": "55138dbef86d606bf4fbdb91b3bb35b0128c96e8",
+  "_size": 279,
+  "appid": "324333",
+  "common": {
+    "associations": {},
+    "exfgls": "9",
+    "gameid": "324333",
+    "name": "Assassin’s Creed Unity - Dead Kings",
+    "parent": "289650",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

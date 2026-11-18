@@ -1,0 +1,77 @@
+{
+  "_change_number": 38156340,
+  "_missing_token": false,
+  "_sha": "3d5f5b450dcc9f020881be679404c3e8c2293be6",
+  "_size": 1541,
+  "appid": "468725",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Berserk Games",
+        "type": "developer"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_17": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_24": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_30": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "controller_support": "full",
+    "gameid": "468725",
+    "genres": {
+      "0": "4",
+      "1": "23",
+      "2": "3",
+      "3": "28",
+      "4": "2"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "metacritic_name": "Tabletop Simulator - The Captain Is Dead",
+    "name": "Tabletop Simulator - The Captain Is Dead",
+    "osarch": "64",
+    "osextended": "macos64,macosapplesilicon",
+    "oslist": "windows,macos,linux",
+    "parent": "286160",
+    "primary_genre": "4",
+    "releasestate": "released",
+    "review_percentage": "100",
+    "review_score": "7",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_release_date": "1471645435",
+    "store_asset_mtime": "1471551663",
+    "store_screenshot": "ss_c35180991af2292bcf87e34e5381fd2a04eb7abd.jpg",
+    "store_tags": {
+      "0": "9",
+      "1": "122",
+      "2": "492",
+      "3": "597",
+      "4": "599"
+    },
+    "supported_languages": {
+      "english": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Berserk Games",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "286160",
+    "homepage": "http://www.berserk-games.com",
+    "mustownapptopurchase": "286160"
+  }
+}

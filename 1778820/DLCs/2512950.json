@@ -1,0 +1,32 @@
+{
+  "_change_number": 34609448,
+  "_missing_token": false,
+  "_sha": "5a3e1c35fad15857f8c270eb72cc9a6cb276a8df",
+  "_size": 849,
+  "appid": "2512950",
+  "common": {
+    "gameid": "2512950",
+    "name": "TEKKEN 8 - Character Costume: Gold Suit Pack",
+    "name_localized": {
+      "japanese": "鉄拳8 キャラクターコスチューム「ゴールドスーツ パック」",
+      "koreana": "철권 8 캐릭터 코스튬 「금색 정장 팩」",
+      "schinese": "铁拳8 角色服装「黄金西装组」",
+      "tchinese": "鐵拳8 角色服裝「黃金西裝組」",
+      "thai": "TEKKEN 8: เครื่องแต่งกายตัวละคร \"แพ็กเกจสูทสีทอง\""
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1778820",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1778820",
+    "mustownapptopurchase": "1778820"
+  }
+}

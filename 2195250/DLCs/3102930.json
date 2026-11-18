@@ -1,0 +1,48 @@
+{
+  "_change_number": 24401574,
+  "_missing_token": false,
+  "_sha": "afde9d2359cc92ac86f7f0c9cb059a0bb7793786",
+  "_size": 2190,
+  "appid": "3102930",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3102930",
+    "name": "EA SPORTS FC™ 24 Football Ultimate Team™ Player Item",
+    "name_localized": {
+      "brazilian": "Item de Atleta do Football Ultimate Team™ do EA SPORTS FC™ 24",
+      "czech": "Hráčský předmět do režimu EA SPORTS FC™ 24 Football Ultimate Team™",
+      "danish": "EA SPORTS FC™ 24 Football Ultimate Team™-spillerkort",
+      "dutch": "EA SPORTS FC™ 24 Football Ultimate Team™-speleritem",
+      "english": "EA SPORTS FC™ 24 Football Ultimate Team™ Player Item",
+      "finnish": "EA SPORTS FC™ 24 Football Ultimate Team™ -pelaajakortti",
+      "french": "Élément joueur Football Ultimate Team™ EA SPORTS FC™ 24",
+      "german": "EA SPORTS FC™ 24 Football Ultimate Team™ Profi-Item",
+      "italian": "Oggetto giocatore EA SPORTS FC™ 24 Football Ultimate Team™",
+      "japanese": "EA SPORTS FC™ 24 Football Ultimate Team™選手アイテム",
+      "koreana": "EA SPORTS FC™ 24 Football Ultimate Team™ 선수 아이템",
+      "latam": "Item de futbolista de EA SPORTS FC™ 24 Football Ultimate Team™",
+      "norwegian": "EA SPORTS FC™ 24 Football Ultimate Team™-spillerkort",
+      "polish": "Karta piłkarska Football Ultimate Team™ EA SPORTS FC™ 24",
+      "portuguese": "Item de Jogador Football Ultimate Team™ para o EA SPORTS FC™ 24",
+      "russian": "Игрок EA SPORTS FC™ 24 Football Ultimate Team™",
+      "schinese": "《EA SPORTS FC™ 24》Football Ultimate Team™ 球员物品",
+      "spanish": "Artículo de futbolista de Football Ultimate Team™ para EA SPORTS FC™ 24",
+      "swedish": "Football Ultimate Team™-spelarkort i EA SPORTS FC™ 24",
+      "tchinese": "《EA SPORTS FC™ 24》Football Ultimate Team™ 球員物品",
+      "thai": "ไอเทมนักเตะ EA SPORTS FC™ 24 Football Ultimate Team™",
+      "turkish": "EA SPORTS FC™ 24 Football Ultimate Team™ Oyuncu Ögesi",
+      "ukrainian": "Гравець EA SPORTS FC™ 24 Football Ultimate Team™"
+    },
+    "parent": "2195250",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "599",
+      "1": "701"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2195250"
+  }
+}

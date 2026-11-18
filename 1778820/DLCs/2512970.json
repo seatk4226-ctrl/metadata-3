@@ -1,0 +1,32 @@
+{
+  "_change_number": 34609461,
+  "_missing_token": false,
+  "_sha": "6cb980bd2852bfbd9b719ffe1584fa97d87b1212",
+  "_size": 765,
+  "appid": "2512970",
+  "common": {
+    "gameid": "2512970",
+    "name": "TEKKEN 8 - Avatar Skin: Kazuya Mishima",
+    "name_localized": {
+      "japanese": "鉄拳8 アバタースキン「三島 一八」",
+      "koreana": "철권 8 아바타 스킨 「미시마 카즈야」",
+      "schinese": "铁拳8 人像外观「三岛一八」",
+      "tchinese": "鐵拳8 人像外觀「三島一八」",
+      "thai": "TEKKEN 8: สกินอวาตาร์ \"มิชิมะ คาซึยะ\""
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1778820",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1778820",
+    "mustownapptopurchase": "1778820"
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "_change_number": 41114847,
+  "_missing_token": false,
+  "_sha": "3005656515404252fd2afb0016906a71338c7a01",
+  "_size": 3400,
+  "appid": "4129170",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Starbreeze Entertainment",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Starbreeze Entertainment",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "PAYDAY",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_27": "1",
+      "category_29": "1",
+      "category_35": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_65": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "partial",
+    "controllertagwizard": "1",
+    "gameid": "4129170",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "3"
+    },
+    "header_image": {
+      "english": "7933f4686f38cd5557134ac50d3e649679edbbd4/header.jpg"
+    },
+    "name": "PAYDAY 3: Shopping Spree Heist",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1272080",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "63",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "fb34ac539501c48177036508929ab43264924053/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1768312844",
+    "store_asset_mtime": "1768314578",
+    "store_screenshot": "1b889689619374d032eff5d034291a03f3a7d13c/ss_1b889689619374d032eff5d034291a03f3a7d13c.jpg",
+    "store_tags": {
+      "0": "1680",
+      "1": "1685",
+      "10": "5923",
+      "11": "3839",
+      "12": "122",
+      "13": "6730",
+      "14": "5765",
+      "15": "3993",
+      "16": "4191",
+      "17": "4175",
+      "18": "4255",
+      "19": "21",
+      "2": "19",
+      "3": "6378",
+      "4": "3859",
+      "5": "1663",
+      "6": "1774",
+      "7": "1687",
+      "8": "1708",
+      "9": "3843"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Starbreeze Entertainment",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "1272080",
+    "homepage": "https://www.paydaythegame.com/payday3/updates/shoppingspree/",
+    "mustownapptopurchase": "1272080",
+    "publisher": "Starbreeze Entertainment"
+  }
+}

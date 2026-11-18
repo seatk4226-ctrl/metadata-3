@@ -1,0 +1,26 @@
+{
+  "_change_number": 37949293,
+  "_missing_token": false,
+  "_sha": "dce15bd1a03f142c1537cd391642532048a07639",
+  "_size": 536,
+  "appid": "4784410",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4784410",
+    "name": "Tom Clancy's Ghost Recon Wildlands: Nightfall Protocol Pack Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "460930",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "460930",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "460930",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "_change_number": 25376591,
+  "_missing_token": false,
+  "_sha": "d211c557679739a953ee65c025f48e507af848b0",
+  "_size": 302,
+  "appid": "2898370",
+  "common": {
+    "exfgls": "9",
+    "gameid": "2898370",
+    "name": "FC 25 - EA Play Trial Key",
+    "parent": "2669320",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2669320",
+    "mustownapptopurchase": "2669320"
+  }
+}

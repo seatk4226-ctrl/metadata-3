@@ -1,0 +1,205 @@
+{
+  "_change_number": 39541493,
+  "_missing_token": false,
+  "_sha": "b72488f9073a77194a27c3827e7d11acce12e945",
+  "_size": 3956,
+  "appid": "5027470",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "The Coalition",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Xbox Game Studios",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "Gears of War",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_35": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_49": "1",
+      "category_57": "1",
+      "category_61": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "clienticon": "53a324b2edd5bccb96e8e9e6066dad6820e1e809",
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "full",
+    "exfgls": "7",
+    "gameid": "5027470",
+    "genres": {
+      "0": "1",
+      "1": "25"
+    },
+    "header_image": {
+      "english": "27d1fd5059021238e82bca049a2b0abe3a815356/header.jpg"
+    },
+    "icon": "53a324b2edd5bccb96e8e9e6066dad6820e1e809",
+    "name": "E-Day Premium Edition Upgrade",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3010850",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "season_pass": "1",
+    "small_capsule": {
+      "english": "762d5502674b9647bcfe1a27472515620c5c9539/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1791298931",
+    "store_asset_mtime": "1788389575",
+    "store_screenshot": "951c49a8761a0407a695fe1c695078318024e945/ss_951c49a8761a0407a695fe1c695078318024e945.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "10": "1697",
+      "11": "4182",
+      "12": "1742",
+      "13": "3942",
+      "14": "620519",
+      "15": "10816",
+      "16": "1695",
+      "17": "3841",
+      "18": "7368",
+      "19": "1775",
+      "2": "4345",
+      "3": "1774",
+      "4": "1667",
+      "5": "1685",
+      "6": "3859",
+      "7": "3814",
+      "8": "3843",
+      "9": "4508"
+    },
+    "supported_languages": {
+      "arabic": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "brazilian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "czech": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "dutch": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "finnish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "hungarian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "norwegian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "portuguese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "swedish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "The Coalition",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "3010850",
+    "mustownapptopurchase": "3010850",
+    "publisher": "Xbox Game Studios"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "_change_number": 41098268,
+  "_missing_token": false,
+  "_sha": "ece85c8c131a3bb7d1619b390dd2b7cf3eb3b392",
+  "_size": 1023,
+  "appid": "4129090",
+  "common": {
+    "gameid": "4129090",
+    "name": "TEKKEN 8 - Character Costume: Aurora Outfit Pack",
+    "name_localized": {
+      "brazilian": "TEKKEN 8 - Traje de personagem: pacote de traje Aurora",
+      "japanese": "鉄拳8 キャラクターコスチューム「オーロラアレンジ パック」",
+      "koreana": "철권 8 캐릭터 코스튬 「오로라 어레인지 팩」",
+      "latam": "TEKKEN 8 - Atuendo de personaje: paquete de atuendo de aurora",
+      "schinese": "铁拳8 角色服装「极光变化 组合包」",
+      "tchinese": "鐵拳8 角色服裝「極光變化 組合包」",
+      "thai": "TEKKEN 8 เครื่องแต่งกายตัวละคร \"แพ็กปรับแต่งออโรรา\""
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1778820",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1778820",
+    "mustownapptopurchase": "1778820"
+  }
+}

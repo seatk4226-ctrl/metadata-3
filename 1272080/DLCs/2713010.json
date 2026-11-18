@@ -1,0 +1,170 @@
+{
+  "_change_number": 41114735,
+  "_missing_token": false,
+  "_sha": "e4f7c3b755621e514173a5dad1083641ffd19c18",
+  "_size": 3211,
+  "appid": "2713010",
+  "common": {
+    "app_retired_publisher_request": "1",
+    "associations": {
+      "0": {
+        "name": "Starbreeze Entertainment",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Starbreeze Entertainment",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "PAYDAY",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_27": "1",
+      "category_35": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "partial",
+    "controllertagwizard": "1",
+    "gameid": "2713010",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "3"
+    },
+    "header_image": {
+      "english": "header.jpg"
+    },
+    "name": "PAYDAY 3: Chapter 1 - Syntax Error",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1272080",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "60",
+    "review_score": "5",
+    "small_capsule": {
+      "english": "capsule_231x87.jpg"
+    },
+    "steam_release_date": "1702395593",
+    "store_asset_mtime": "1779455626",
+    "store_screenshot": "ss_3ac002565fadbb7c5819593d4169cde626e7a1ac.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "1680",
+      "10": "3843",
+      "11": "5923",
+      "12": "3839",
+      "13": "6730",
+      "14": "5765",
+      "15": "3993",
+      "16": "4191",
+      "17": "4255",
+      "18": "4175",
+      "19": "21",
+      "2": "1685",
+      "3": "6378",
+      "4": "1663",
+      "5": "3859",
+      "6": "122",
+      "7": "1774",
+      "8": "1708",
+      "9": "1687"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Starbreeze Entertainment",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "1272080",
+    "homepage": "https://www.paydaythegame.com/payday3/updates/syntaxerror/",
+    "mustownapptopurchase": "1272080",
+    "publisher": "Starbreeze Entertainment"
+  }
+}

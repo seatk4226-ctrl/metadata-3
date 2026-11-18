@@ -1,0 +1,23 @@
+{
+  "_change_number": 39383638,
+  "_missing_token": false,
+  "_sha": "262fd2f49e148bbd078a7ea3d164dbb9020c28a9",
+  "_size": 367,
+  "appid": "5028550",
+  "common": {
+    "gameid": "5028550",
+    "name": "E-Day Prince Street Pizza",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3010850",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3010850",
+    "mustownapptopurchase": "3010850"
+  }
+}

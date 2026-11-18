@@ -1,0 +1,19 @@
+{
+  "_change_number": 34678701,
+  "_missing_token": false,
+  "_sha": "26e0e043f5047c2aeef2902faa879a87bb46c6cc",
+  "_size": 315,
+  "appid": "4119250",
+  "common": {
+    "gameid": "4119250",
+    "name": "DEATH STRANDING 2: ON THE BEACH - Pre Purchase Content",
+    "parent": "3280350",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3280350",
+    "mustownapptopurchase": "3280350"
+  }
+}

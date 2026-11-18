@@ -1,0 +1,32 @@
+{
+  "_change_number": 34609464,
+  "_missing_token": false,
+  "_sha": "49cc912f8b9751b9e47af5d053ff79bf800e5a26",
+  "_size": 737,
+  "appid": "2512990",
+  "common": {
+    "gameid": "2512990",
+    "name": "TEKKEN 8 - Avatar Skin: Jin Kazama",
+    "name_localized": {
+      "japanese": "鉄拳8 アバタースキン「風間 仁」",
+      "koreana": "철권 8 아바타 스킨 「카자마 진」",
+      "schinese": "铁拳8 人像外观「风间仁」",
+      "tchinese": "鐵拳8 人像外觀「風間仁」",
+      "thai": "TEKKEN 8: สกินอวาตาร์ \"คาซามะ จิน\""
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1778820",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1778820",
+    "mustownapptopurchase": "1778820"
+  }
+}

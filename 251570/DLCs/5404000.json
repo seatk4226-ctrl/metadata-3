@@ -1,0 +1,144 @@
+{
+  "_change_number": 40269353,
+  "_missing_token": false,
+  "_sha": "39bf1b421b9616b48fd2040b13665eca1f81897b",
+  "_size": 3134,
+  "appid": "5404000",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "The Fun Pimps",
+        "type": "developer"
+      },
+      "1": {
+        "name": "The Fun Pimps",
+        "type": "publisher"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_17": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_27": "1",
+      "category_28": "1",
+      "category_29": "1",
+      "category_36": "1",
+      "category_38": "1",
+      "category_42": "1",
+      "category_43": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_47": "1",
+      "category_48": "1",
+      "category_49": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_9": "1"
+    },
+    "controller_support": "full",
+    "gameid": "5404000",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "23",
+      "3": "3",
+      "4": "28",
+      "5": "2"
+    },
+    "header_image": {
+      "english": "cae94aa4427931ce4f997fa803f31574481aa86c/header.jpg"
+    },
+    "name": "The Scarlet Scoundrel Armor Set",
+    "name_localized": {
+      "brazilian": "Conjunto de Armadura do Patife Escarlate",
+      "english": "The Scarlet Scoundrel Armor Set",
+      "french": "Ensemble d'armure Scélérat écarlate",
+      "german": "Rüstungsset des Scharlachroten Schurken",
+      "italian": "Set armatura della Canaglia Scarlatta",
+      "japanese": " スカーレット・スカウンドレル・アーマーセット",
+      "koreana": "진홍빛 악당 방어구 세트",
+      "latam": "Conjunto de armadura del Pícaro Escarlata",
+      "russian": "Комплект брони «Пунцовый прохвост»",
+      "schinese": "猩红无赖护甲套装",
+      "tchinese": "緋紅惡徒護甲套裝",
+      "turkish": "Kızıl Alçak Zırh Seti"
+    },
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "macos64",
+    "oslist": "windows,macos,linux",
+    "parent": "251570",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "small_capsule": {
+      "english": "205b4e6b69300f688626bcd30dd46a801ee910ca/capsule_231x87.jpg"
+    },
+    "store_asset_mtime": "1792123832",
+    "store_screenshot": "a6ba86c8aacb33f4a46c908066bf9f0c9b3617f4/ss_a6ba86c8aacb33f4a46c908066bf9f0c9b3617f4.jpg",
+    "store_tags": {
+      "0": "9",
+      "1": "19",
+      "2": "21",
+      "3": "122",
+      "4": "492",
+      "5": "599"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "supported": "true"
+      },
+      "english": {
+        "supported": "true"
+      },
+      "french": {
+        "supported": "true"
+      },
+      "german": {
+        "supported": "true"
+      },
+      "italian": {
+        "supported": "true"
+      },
+      "japanese": {
+        "supported": "true"
+      },
+      "koreana": {
+        "supported": "true"
+      },
+      "latam": {
+        "supported": "true"
+      },
+      "polish": {
+        "supported": "true"
+      },
+      "russian": {
+        "supported": "true"
+      },
+      "schinese": {
+        "supported": "true"
+      },
+      "spanish": {
+        "supported": "true"
+      },
+      "tchinese": {
+        "supported": "true"
+      },
+      "turkish": {
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "The Fun Pimps",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "251570",
+    "homepage": "http://www.7daystodie.com",
+    "mustownapptopurchase": "251570",
+    "publisher": "The Fun Pimps"
+  }
+}

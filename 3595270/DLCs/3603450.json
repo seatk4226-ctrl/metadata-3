@@ -1,0 +1,23 @@
+{
+  "_change_number": 38191659,
+  "_missing_token": false,
+  "_sha": "a9444a2f9f6bec122e4596edf16db47c15e8c52a",
+  "_size": 382,
+  "appid": "3603450",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3603450",
+    "name": "Call of Duty®: Modern Warfare® III - Campaign",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3595270",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3595270",
+    "mustownapptopurchase": "3595270"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_change_number": 39425817,
+  "_missing_token": false,
+  "_sha": "b45ee84f9da8957da13d4fdff04afe907f826735",
+  "_size": 381,
+  "appid": "5028540",
+  "common": {
+    "gameid": "5028540",
+    "name": "E-Day Liquid Death Bundle",
+    "osarch": "64",
+    "oscpu": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3010850",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3010850",
+    "mustownapptopurchase": "3010850"
+  }
+}

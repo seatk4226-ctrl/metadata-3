@@ -1,0 +1,23 @@
+{
+  "_change_number": 38191659,
+  "_missing_token": false,
+  "_sha": "0f226f7b571580924351258e22261ca5627476c3",
+  "_size": 381,
+  "appid": "3603470",
+  "common": {
+    "exfgls": "9",
+    "gameid": "3603470",
+    "name": "Call of Duty®: Modern Warfare® III - Zombies",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3595270",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3595270",
+    "mustownapptopurchase": "3595270"
+  }
+}

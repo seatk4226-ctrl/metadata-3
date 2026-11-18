@@ -1,0 +1,18 @@
+{
+  "_change_number": 36124781,
+  "_missing_token": true,
+  "_sha": "657a7dd9819a0a0730936d01d149dd7aabe87da4",
+  "_size": 298,
+  "appid": "733970",
+  "common": {
+    "associations": {},
+    "exfgls": "9",
+    "gameid": "733970",
+    "name": "Tom Clancy's Ghost Recon® Wildlands Full Game Ownership",
+    "parent": "460930",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

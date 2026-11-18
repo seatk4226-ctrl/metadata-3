@@ -1,0 +1,25 @@
+{
+  "_change_number": 39383653,
+  "_missing_token": false,
+  "_sha": "0c6249254b131ec7b6ee30a88927e011af36f702",
+  "_size": 473,
+  "appid": "4637200",
+  "common": {
+    "clienticon": "53a324b2edd5bccb96e8e9e6066dad6820e1e809",
+    "gameid": "4637200",
+    "icon": "53a324b2edd5bccb96e8e9e6066dad6820e1e809",
+    "name": "E-Day Pre-Order DLC",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "3010850",
+    "releasestate": "released",
+    "store_tags": {},
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "3010850",
+    "mustownapptopurchase": "3010850"
+  }
+}

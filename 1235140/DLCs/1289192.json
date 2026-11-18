@@ -1,0 +1,17 @@
+{
+  "_change_number": 32936622,
+  "_missing_token": true,
+  "_sha": "bfb0ce8660bf8974bf28176acd3090e3c74cc8d6",
+  "_size": 267,
+  "appid": "1289192",
+  "common": {
+    "associations": {},
+    "gameid": "1289192",
+    "name": "Yakuza: Like a Dragon - Stat Boost Set",
+    "parent": "1235140",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

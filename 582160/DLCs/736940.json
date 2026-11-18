@@ -1,0 +1,18 @@
+{
+  "_change_number": 33544012,
+  "_missing_token": true,
+  "_sha": "89a18fb7cd27b9a9323717374beebd620fb7f91e",
+  "_size": 296,
+  "appid": "736940",
+  "common": {
+    "associations": {},
+    "exfgls": "9",
+    "gameid": "736940",
+    "name": "Assassin's Creed Origins - Standard - Uplay Activation",
+    "parent": "582160",
+    "releasestate": "released",
+    "section_type": "ownersonly",
+    "type": "DLC"
+  },
+  "public_only": "1"
+}

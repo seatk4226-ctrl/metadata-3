@@ -1,0 +1,21 @@
+{
+  "_change_number": 37430331,
+  "_missing_token": false,
+  "_sha": "3bc37f6e9cc54ed8a50baf4ef7fc4174e6db1d96",
+  "_size": 340,
+  "appid": "2195260",
+  "common": {
+    "associations": {},
+    "exfgls": "9",
+    "gameid": "2195260",
+    "name": "EA Sports FC 24 Standard Edition - Key",
+    "parent": "2195250",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2195250",
+    "mustownapptopurchase": "2195250"
+  }
+}

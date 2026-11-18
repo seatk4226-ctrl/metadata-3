@@ -1,0 +1,172 @@
+{
+  "_change_number": 41114733,
+  "_missing_token": false,
+  "_sha": "0982ba77c1d55e8851a2603df08816dc5262d0e8",
+  "_size": 3513,
+  "appid": "5101770",
+  "common": {
+    "associations": {
+      "0": {
+        "name": "Starbreeze Entertainment",
+        "type": "developer"
+      },
+      "1": {
+        "name": "Starbreeze Entertainment",
+        "type": "publisher"
+      },
+      "2": {
+        "name": "PAYDAY",
+        "type": "franchise"
+      }
+    },
+    "category": {
+      "category_1": "1",
+      "category_18": "1",
+      "category_2": "1",
+      "category_22": "1",
+      "category_23": "1",
+      "category_27": "1",
+      "category_29": "1",
+      "category_35": "1",
+      "category_38": "1",
+      "category_45": "1",
+      "category_46": "1",
+      "category_55": "1",
+      "category_56": "1",
+      "category_57": "1",
+      "category_58": "1",
+      "category_62": "1",
+      "category_65": "1",
+      "category_67": "1",
+      "category_68": "1",
+      "category_69": "1",
+      "category_70": "1",
+      "category_78": "1",
+      "category_9": "1"
+    },
+    "content_descriptors": {
+      "0": "2",
+      "1": "5"
+    },
+    "content_descriptors_including_dlc": {
+      "0": "2",
+      "1": "5"
+    },
+    "controller_support": "partial",
+    "controllertagwizard": "1",
+    "gameid": "5101770",
+    "genres": {
+      "0": "1",
+      "1": "25",
+      "2": "3"
+    },
+    "header_image": {
+      "english": "54c6c2f8a18b23e0d3335aac4a4154f32f066bba/header.jpg"
+    },
+    "library_assets": {
+      "library_header": "en"
+    },
+    "library_assets_full": {
+      "library_header": {
+        "image": {
+          "english": "54c6c2f8a18b23e0d3335aac4a4154f32f066bba/library_header.jpg"
+        },
+        "image2x": {
+          "english": "54c6c2f8a18b23e0d3335aac4a4154f32f066bba/library_header_2x.jpg"
+        }
+      }
+    },
+    "name": "PAYDAY 3: Brute Force Crimebond",
+    "name_localized": {
+      "tchinese": "《PAYDAY 3》Brute Force Crimebond"
+    },
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1272080",
+    "primary_genre": "1",
+    "releasestate": "released",
+    "review_percentage": "76",
+    "review_score": "6",
+    "small_capsule": {
+      "english": "afc59caecdfc42a439c8bdcd626b114bdec34e72/capsule_231x87.jpg"
+    },
+    "steam_release_date": "1790064574",
+    "store_asset_mtime": "1790066165",
+    "store_screenshot": "25b21bffb7a9cb2bfc26f2d897295d55cebcdd2c/ss_25b21bffb7a9cb2bfc26f2d897295d55cebcdd2c.jpg",
+    "store_tags": {
+      "0": "19",
+      "1": "21",
+      "2": "122",
+      "3": "4667"
+    },
+    "supported_languages": {
+      "brazilian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "english": {
+        "full_audio": "true",
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "french": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "german": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "italian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "japanese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "koreana": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "latam": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "polish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "russian": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "schinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "spanish": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "tchinese": {
+        "subtitles": "true",
+        "supported": "true"
+      },
+      "turkish": {
+        "subtitles": "true",
+        "supported": "true"
+      }
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "developer": "Starbreeze Entertainment",
+    "dlcavailableonstore": "1",
+    "dlcforappid": "1272080",
+    "homepage": "https://www.paydaythegame.com/payday3/updates/bruteforce/",
+    "mustownapptopurchase": "1272080",
+    "publisher": "Starbreeze Entertainment"
+  }
+}

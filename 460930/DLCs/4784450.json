@@ -1,0 +1,26 @@
+{
+  "_change_number": 37949293,
+  "_missing_token": false,
+  "_sha": "20d076ecc36692efe5ab42c84007845b2ad89117",
+  "_size": 539,
+  "appid": "4784450",
+  "common": {
+    "exfgls": "9",
+    "gameid": "4784450",
+    "name": "Tom Clancy's Ghost Recon Wildlands: Definitive Edition Upgrade Ubisoft Activation",
+    "osarch": "64",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "460930",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "dlcforappid": "460930",
+    "legacykeylinkedexternally": "1",
+    "legacykeyproofofpurchaseticket": "1",
+    "legacykeyregistrationmethod": "api",
+    "mustownapptopurchase": "460930",
+    "proofofpurchaseticketrevision": "1"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_change_number": 26517061,
+  "_missing_token": false,
+  "_sha": "e9125bd10e3f83f29ae4f89e4a6420aad045a3d2",
+  "_size": 268,
+  "appid": "2898450",
+  "common": {
+    "exfgls": "9",
+    "gameid": "2898450",
+    "name": "EA SPORTS FC™ 25 SHOWCASE",
+    "parent": "2669320",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2669320"
+  }
+}

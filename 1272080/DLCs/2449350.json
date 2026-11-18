@@ -1,0 +1,27 @@
+{
+  "_change_number": 30881017,
+  "_missing_token": false,
+  "_sha": "4ed5fd019dc4d2c9729541484299157178127177",
+  "_size": 420,
+  "appid": "2449350",
+  "common": {
+    "associations": {},
+    "gameid": "2449350",
+    "name": "PAYDAY 3 - Gold Slate Gloves",
+    "osarch": "",
+    "osextended": "",
+    "oslist": "windows",
+    "parent": "1272080",
+    "releasestate": "released",
+    "store_tags": {
+      "0": "19",
+      "1": "122"
+    },
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "1272080",
+    "mustownapptopurchase": "1272080"
+  }
+}

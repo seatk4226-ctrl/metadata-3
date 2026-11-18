@@ -1,0 +1,20 @@
+{
+  "_change_number": 25485446,
+  "_missing_token": false,
+  "_sha": "727a9badbc7a50b22bd0144130bb1585ccb788e1",
+  "_size": 300,
+  "appid": "2898380",
+  "common": {
+    "exfgls": "9",
+    "gameid": "2898380",
+    "name": "FC 25 - Press Offer Key",
+    "parent": "2669320",
+    "releasestate": "released",
+    "type": "DLC"
+  },
+  "extended": {
+    "activationonlydlc": "1",
+    "dlcforappid": "2669320",
+    "mustownapptopurchase": "2669320"
+  }
+}
