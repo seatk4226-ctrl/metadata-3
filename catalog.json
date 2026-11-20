@@ -3371,6 +3371,74 @@
     "added_ts": 1792393314
   },
   {
+    "id": "game-2381590",
+    "appid": 2381590,
+    "name": "Only Up!",
+    "developer": "Indiesolodev",
+    "publisher": "Indiesolodev",
+    "installdir": "Only Up!",
+    "launch_exes": [
+      "OnlyUP.exe"
+    ],
+    "launch_exe": "OnlyUP.exe",
+    "launch_exe_after_fix": "",
+    "build_id": "12124964",
+    "has_metadata": true,
+    "depot_base": 2381591,
+    "poster_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2381590/library_600x900.jpg",
+    "header_url": "https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2381590/header.jpg",
+    "platforms": [
+      "Windows (64-bit)"
+    ],
+    "versions": [
+      {
+        "id": "12124964",
+        "branch": "public Small fixes/ Game's future",
+        "label": "public Small fixes/ Game's future - Build 12124964 (09/07/2023)",
+        "is_ready": true,
+        "is_recommended": true,
+        "manifest_depots": [
+          "228989",
+          "228990",
+          "229007",
+          "2381591"
+        ],
+        "languages": [
+          {
+            "id": 2381591,
+            "key": "lang:english",
+            "lang": "english",
+            "label": "English (Default)",
+            "source": "depot",
+            "is_default": true
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 2381591,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      }
+    ],
+    "all_languages": [
+      {
+        "id": 2381591,
+        "key": "lang:english",
+        "lang": "english",
+        "label": "English (Default)",
+        "source": "depot",
+        "is_default": true
+      }
+    ],
+    "json_rev": 1,
+    "added_ts": 1795147871
+  },
+  {
     "id": "game-243470",
     "appid": 243470,
     "name": "Watch_Dogs",
